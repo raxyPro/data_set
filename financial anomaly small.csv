@@ -1,0 +1,1000 @@
+﻿Timestamp,TransactionID,AccountID,Amount,Merchant,TransactionType,Location
+1/1/2023 8:00,TXN1127,ACC4,95071.92,MerchantH,Purchase,Tokyo
+1/1/2023 8:01,TXN1639,ACC10,15607.89,MerchantH,Purchase,London
+1/1/2023 8:02,TXN872,ACC8,65092.34,MerchantE,Withdrawal,London
+1/1/2023 8:03,TXN1438,ACC6,87.87,MerchantE,Purchase,London
+1/1/2023 8:04,TXN1338,ACC6,716.56,MerchantI,Purchase,Los Angeles
+1/1/2023 8:05,TXN1083,ACC15,13957.99,MerchantC,Transfer,London
+1/1/2023 8:06,TXN832,ACC9,4654.58,MerchantC,Transfer,Tokyo
+1/1/2023 8:07,TXN841,ACC7,1336.36,MerchantI,Withdrawal,San Francisco
+1/1/2023 8:08,TXN777,ACC10,9776.23,MerchantD,Transfer,London
+1/1/2023 8:09,TXN1479,ACC12,49522.74,MerchantC,Withdrawal,New York
+1/1/2023 8:10,TXN1956,ACC2,66255.6,MerchantB,Withdrawal,San Francisco
+1/1/2023 8:11,TXN1796,ACC6,3141.02,MerchantB,Withdrawal,London
+1/1/2023 8:12,TXN162,ACC10,89483.79,MerchantH,Withdrawal,London
+1/1/2023 8:13,TXN1017,ACC14,32539.78,MerchantB,Transfer,Tokyo
+1/1/2023 8:14,TXN792,ACC10,96525.88,MerchantI,Purchase,Tokyo
+1/1/2023 8:15,TXN65,ACC9,98688.82,MerchantH,Purchase,London
+1/1/2023 8:16,TXN648,ACC8,1417.84,MerchantC,Purchase,Los Angeles
+1/1/2023 8:17,TXN419,ACC1,60599.94,MerchantJ,Transfer,San Francisco
+1/1/2023 8:18,TXN41,ACC12,86311.71,MerchantH,Withdrawal,New York
+1/1/2023 8:19,TXN1072,ACC7,31105.12,MerchantH,Purchase,Los Angeles
+1/1/2023 8:20,TXN684,ACC8,27479.43,MerchantC,Purchase,Los Angeles
+1/1/2023 8:21,TXN613,ACC15,71327.35,MerchantA,Purchase,San Francisco
+1/1/2023 8:22,TXN503,ACC15,25614.27,MerchantI,Transfer,San Francisco
+1/1/2023 8:23,TXN1578,ACC12,10798.06,MerchantG,Purchase,London
+1/1/2023 8:24,TXN1021,ACC4,90757.57,MerchantG,Transfer,Tokyo
+1/1/2023 8:25,TXN1679,ACC11,20314.09,MerchantG,Transfer,Los Angeles
+1/1/2023 8:26,TXN1110,ACC12,92970.47,MerchantI,Purchase,London
+1/1/2023 8:27,TXN1052,ACC12,18665.14,MerchantJ,Transfer,London
+1/1/2023 8:28,TXN1497,ACC7,90683.78,MerchantA,Purchase,Los Angeles
+1/1/2023 8:29,TXN1982,ACC9,81803.3,MerchantI,Transfer,Los Angeles
+1/1/2023 8:30,TXN649,ACC14,22218.56,MerchantC,Withdrawal,London
+1/1/2023 8:31,TXN664,ACC15,16837.42,MerchantH,Purchase,London
+1/1/2023 8:32,TXN1137,ACC14,97178.49,MerchantD,Withdrawal,San Francisco
+1/1/2023 8:33,TXN1411,ACC1,14817.21,MerchantH,Purchase,Los Angeles
+1/1/2023 8:34,TXN113,ACC2,50272.88,MerchantF,Transfer,Tokyo
+1/1/2023 8:35,TXN1760,ACC1,63438.79,MerchantB,Purchase,London
+1/1/2023 8:36,TXN730,ACC6,24213.11,MerchantD,Transfer,Los Angeles
+1/1/2023 8:37,TXN1208,ACC11,24223.57,MerchantF,Purchase,London
+1/1/2023 8:38,TXN1634,ACC6,39888.46,MerchantA,Purchase,London
+1/1/2023 8:39,TXN187,ACC6,69584.32,MerchantC,Transfer,London
+1/1/2023 8:40,TXN403,ACC10,51214.18,MerchantC,Transfer,London
+1/1/2023 8:41,TXN489,ACC1,39763.23,MerchantG,Withdrawal,New York
+1/1/2023 8:42,TXN1803,ACC12,73524.26,MerchantB,Transfer,San Francisco
+1/1/2023 8:43,TXN1635,ACC7,66001.8,MerchantJ,Purchase,London
+1/1/2023 8:44,TXN1596,ACC1,24192.81,MerchantE,Purchase,Los Angeles
+1/1/2023 8:45,TXN1015,ACC9,27894.35,MerchantC,Transfer,London
+1/1/2023 8:46,TXN152,ACC6,77989.76,MerchantH,Transfer,New York
+1/1/2023 8:47,TXN1992,ACC4,89856.43,MerchantD,Withdrawal,Los Angeles
+1/1/2023 8:48,TXN1136,ACC14,94013.94,MerchantI,Purchase,San Francisco
+1/1/2023 8:49,TXN1920,ACC14,54877.89,MerchantF,Transfer,Tokyo
+1/1/2023 8:50,TXN1705,ACC4,71220.8,MerchantA,Withdrawal,Tokyo
+1/1/2023 8:51,TXN816,ACC4,36653.21,MerchantH,Transfer,Los Angeles
+1/1/2023 8:52,TXN401,ACC1,54258.6,MerchantC,Withdrawal,Tokyo
+1/1/2023 8:53,TXN563,ACC6,90610.82,MerchantB,Purchase,New York
+1/1/2023 8:54,TXN284,ACC15,49256.84,MerchantE,Purchase,Los Angeles
+1/1/2023 8:55,TXN1540,ACC3,76857.72,MerchantA,Withdrawal,Tokyo
+1/1/2023 8:56,TXN1070,ACC5,88350.57,MerchantI,Purchase,Tokyo
+1/1/2023 8:57,TXN497,ACC14,96665.82,MerchantC,Purchase,London
+1/1/2023 8:58,TXN191,ACC13,38515.92,MerchantG,Purchase,Los Angeles
+1/1/2023 8:59,TXN128,ACC2,55684.56,MerchantF,Withdrawal,Los Angeles
+1/1/2023 9:00,TXN1896,ACC14,9726.68,MerchantF,Transfer,San Francisco
+1/1/2023 9:01,TXN1663,ACC11,29536.11,MerchantJ,Purchase,New York
+1/1/2023 9:02,TXN1417,ACC11,70894.01,MerchantG,Purchase,San Francisco
+1/1/2023 9:03,TXN759,ACC10,81013.24,MerchantI,Purchase,London
+1/1/2023 9:04,TXN1530,ACC7,50156.61,MerchantD,Purchase,London
+1/1/2023 9:05,TXN1907,ACC7,2771.4,MerchantB,Withdrawal,Los Angeles
+1/1/2023 9:06,TXN1689,ACC10,54269.04,MerchantF,Withdrawal,San Francisco
+1/1/2023 9:07,TXN1366,ACC1,3744.45,MerchantF,Transfer,Los Angeles
+1/1/2023 9:08,TXN444,ACC5,52229.1,MerchantE,Purchase,London
+1/1/2023 9:09,TXN774,ACC13,19446.06,MerchantC,Transfer,London
+1/1/2023 9:10,TXN656,ACC13,96953.99,MerchantJ,Withdrawal,Los Angeles
+1/1/2023 9:11,TXN657,ACC8,27090.52,MerchantJ,Transfer,San Francisco
+1/1/2023 9:12,TXN741,ACC10,96265.21,MerchantG,Transfer,New York
+1/1/2023 9:13,TXN1932,ACC5,5828.78,MerchantJ,Purchase,San Francisco
+1/1/2023 9:14,TXN1120,ACC14,9396.39,MerchantI,Purchase,Tokyo
+1/1/2023 9:15,TXN897,ACC13,73792.31,MerchantE,Withdrawal,Tokyo
+1/1/2023 9:16,TXN247,ACC3,24780.62,MerchantC,Purchase,New York
+1/1/2023 9:17,TXN1309,ACC14,9188.99,MerchantA,Withdrawal,London
+1/1/2023 9:18,TXN453,ACC12,1725.94,MerchantJ,Purchase,London
+1/1/2023 9:19,TXN1313,ACC14,43390.83,MerchantG,Withdrawal,San Francisco
+1/1/2023 9:20,TXN1782,ACC5,88669.17,MerchantD,Transfer,San Francisco
+1/1/2023 9:21,TXN762,ACC3,50318.59,MerchantA,Purchase,Tokyo
+1/1/2023 9:22,TXN516,ACC8,94389.72,MerchantB,Purchase,London
+1/1/2023 9:23,TXN896,ACC11,80096.92,MerchantB,Transfer,London
+1/1/2023 9:24,TXN1569,ACC1,81122.31,MerchantE,Transfer,New York
+1/1/2023 9:25,TXN1441,ACC8,90536.01,MerchantB,Purchase,Los Angeles
+1/1/2023 9:26,TXN754,ACC3,33662.06,MerchantJ,Purchase,San Francisco
+1/1/2023 9:27,TXN970,ACC10,34069.05,MerchantC,Purchase,London
+1/1/2023 9:28,TXN826,ACC5,34840.18,MerchantH,Purchase,Tokyo
+1/1/2023 9:29,TXN1021,ACC9,54801.71,MerchantE,Purchase,Los Angeles
+1/1/2023 9:30,TXN1713,ACC3,41267.64,MerchantB,Purchase,Tokyo
+1/1/2023 9:31,TXN1804,ACC1,67987.68,MerchantG,Purchase,Los Angeles
+1/1/2023 9:32,TXN873,ACC14,90256.27,MerchantD,Purchase,Tokyo
+1/1/2023 9:33,TXN699,ACC3,38926.28,MerchantI,Transfer,London
+1/1/2023 9:34,TXN265,ACC7,95680.52,MerchantD,Transfer,San Francisco
+1/1/2023 9:35,TXN1391,ACC5,9179.5,MerchantI,Transfer,Tokyo
+1/1/2023 9:36,TXN1508,ACC5,79159.99,MerchantI,Transfer,Tokyo
+1/1/2023 9:37,TXN1717,ACC10,97425.08,MerchantJ,Purchase,Los Angeles
+1/1/2023 9:38,TXN1239,ACC13,35097.99,MerchantB,Transfer,London
+1/1/2023 9:39,TXN1033,ACC10,83698.02,MerchantA,Purchase,Tokyo
+1/1/2023 9:40,TXN1192,ACC10,39671.19,MerchantJ,Withdrawal,Tokyo
+1/1/2023 9:41,TXN29,ACC5,23330.47,MerchantH,Purchase,New York
+1/1/2023 9:42,TXN1366,ACC4,23676.15,MerchantG,Purchase,Tokyo
+1/1/2023 9:43,TXN1156,ACC4,37632.2,MerchantC,Purchase,London
+1/1/2023 9:44,TXN1206,ACC7,42427.96,MerchantJ,Transfer,Los Angeles
+1/1/2023 9:45,TXN173,ACC13,40526.16,MerchantJ,Purchase,New York
+1/1/2023 9:46,TXN1959,ACC1,68107.13,MerchantI,Transfer,London
+1/1/2023 9:47,TXN1393,ACC9,86861.23,MerchantF,Purchase,San Francisco
+1/1/2023 9:48,TXN1580,ACC13,96988.18,MerchantE,Withdrawal,Tokyo
+1/1/2023 9:49,TXN203,ACC12,7388.92,MerchantC,Transfer,London
+1/1/2023 9:50,TXN1465,ACC2,16629.88,MerchantA,Withdrawal,New York
+1/1/2023 9:51,TXN1397,ACC6,58435.59,MerchantG,Purchase,Los Angeles
+1/1/2023 9:52,TXN1036,ACC10,95041.64,MerchantH,Withdrawal,London
+1/1/2023 9:53,TXN1432,ACC12,33572.65,MerchantJ,Withdrawal,San Francisco
+1/1/2023 9:54,TXN1340,ACC2,26601.13,MerchantE,Purchase,London
+1/1/2023 9:55,TXN1728,ACC11,69819.19,MerchantA,Purchase,New York
+1/1/2023 9:56,TXN1748,ACC13,68476.27,MerchantC,Purchase,San Francisco
+1/1/2023 9:57,TXN883,ACC5,61345.39,MerchantB,Withdrawal,San Francisco
+1/1/2023 9:58,TXN1275,ACC13,16491.78,MerchantH,Purchase,New York
+1/1/2023 9:59,TXN146,ACC15,15050.18,MerchantE,Withdrawal,New York
+1/1/2023 10:00,TXN1878,ACC11,84213.47,MerchantA,Withdrawal,New York
+1/1/2023 10:01,TXN1123,ACC15,27347.97,MerchantG,Withdrawal,London
+1/1/2023 10:02,TXN709,ACC15,74993.58,MerchantC,Purchase,Tokyo
+1/1/2023 10:03,TXN1589,ACC5,75710.55,MerchantC,Purchase,Tokyo
+1/1/2023 10:04,TXN1102,ACC9,12924.65,MerchantC,Purchase,Tokyo
+1/1/2023 10:05,TXN1796,ACC14,87823.28,MerchantH,Withdrawal,London
+1/1/2023 10:06,TXN95,ACC8,2228.25,MerchantJ,Withdrawal,Los Angeles
+1/1/2023 10:07,TXN1915,ACC2,85219.63,MerchantF,Purchase,Los Angeles
+1/1/2023 10:08,TXN1849,ACC1,13410.18,MerchantG,Transfer,Tokyo
+1/1/2023 10:09,TXN853,ACC14,70410.94,MerchantC,Transfer,London
+1/1/2023 10:10,TXN738,ACC6,60812.7,MerchantB,Withdrawal,Los Angeles
+1/1/2023 10:11,TXN435,ACC15,72642.44,MerchantI,Withdrawal,New York
+1/1/2023 10:12,TXN984,ACC15,39660.31,MerchantG,Withdrawal,Los Angeles
+1/1/2023 10:13,TXN81,ACC5,79649.21,MerchantJ,Purchase,San Francisco
+1/1/2023 10:14,TXN785,ACC12,6632.94,MerchantE,Withdrawal,Tokyo
+1/1/2023 10:15,TXN1474,ACC13,20920.99,MerchantC,Transfer,New York
+1/1/2023 10:16,TXN1687,ACC7,58480.76,MerchantF,Purchase,Los Angeles
+1/1/2023 10:17,TXN1888,ACC3,51528.45,MerchantB,Purchase,San Francisco
+1/1/2023 10:18,TXN1075,ACC3,82180.85,MerchantB,Withdrawal,Tokyo
+1/1/2023 10:19,TXN534,ACC5,54876.04,MerchantE,Purchase,London
+1/1/2023 10:20,TXN346,ACC14,36433.34,MerchantJ,Purchase,Los Angeles
+1/1/2023 10:21,TXN1097,ACC10,79943.05,MerchantI,Withdrawal,Los Angeles
+1/1/2023 10:22,TXN831,ACC13,269.48,MerchantD,Purchase,New York
+1/1/2023 10:23,TXN1891,ACC13,98625.84,MerchantH,Withdrawal,San Francisco
+1/1/2023 10:24,TXN28,ACC7,53131.26,MerchantB,Purchase,San Francisco
+1/1/2023 10:25,TXN526,ACC11,25251.17,MerchantG,Transfer,Los Angeles
+1/1/2023 10:26,TXN1775,ACC12,10726.13,MerchantJ,Withdrawal,Los Angeles
+1/1/2023 10:27,TXN1907,ACC15,10495.87,MerchantG,Purchase,London
+1/1/2023 10:28,TXN714,ACC7,32214.7,MerchantG,Withdrawal,San Francisco
+1/1/2023 10:29,TXN126,ACC12,23329.31,MerchantD,Purchase,London
+1/1/2023 10:30,TXN1418,ACC3,64885.8,MerchantB,Transfer,London
+1/1/2023 10:31,TXN111,ACC6,58688.24,MerchantH,Purchase,London
+1/1/2023 10:32,TXN595,ACC10,28384.75,MerchantF,Withdrawal,San Francisco
+1/1/2023 10:33,TXN1467,ACC8,49829.79,MerchantF,Purchase,New York
+1/1/2023 10:34,TXN1313,ACC5,10187.23,MerchantF,Withdrawal,London
+1/1/2023 10:35,TXN1374,ACC11,8797.88,MerchantH,Transfer,New York
+1/1/2023 10:36,TXN759,ACC3,52455.89,MerchantH,Purchase,London
+1/1/2023 10:37,TXN920,ACC15,89662.06,MerchantD,Transfer,London
+1/1/2023 10:38,TXN1871,ACC6,97506.97,MerchantH,Withdrawal,Los Angeles
+1/1/2023 10:39,TXN574,ACC9,71848.54,MerchantH,Withdrawal,Los Angeles
+1/1/2023 10:40,TXN173,ACC12,20515.71,MerchantJ,Withdrawal,London
+1/1/2023 10:41,TXN1811,ACC4,50765.96,MerchantA,Transfer,New York
+1/1/2023 10:42,TXN90,ACC14,28870.17,MerchantE,Withdrawal,Los Angeles
+1/1/2023 10:43,TXN1535,ACC4,32071.01,MerchantC,Purchase,San Francisco
+1/1/2023 10:44,TXN10,ACC5,6346.86,MerchantB,Purchase,San Francisco
+1/1/2023 10:45,TXN1620,ACC1,13891.09,MerchantI,Purchase,New York
+1/1/2023 10:46,TXN1995,ACC15,47162.9,MerchantG,Transfer,New York
+1/1/2023 10:47,TXN1605,ACC14,74599.99,MerchantB,Withdrawal,Tokyo
+1/1/2023 10:48,TXN376,ACC11,93834.66,MerchantC,Transfer,New York
+1/1/2023 10:49,TXN1320,ACC6,4818.98,MerchantH,Transfer,New York
+1/1/2023 10:50,TXN1253,ACC14,79955.72,MerchantC,Purchase,Tokyo
+1/1/2023 10:51,TXN5,ACC3,66523.07,MerchantJ,Withdrawal,London
+1/1/2023 10:52,TXN601,ACC13,58834.78,MerchantB,Transfer,Los Angeles
+1/1/2023 10:53,TXN1661,ACC6,53982.71,MerchantA,Purchase,New York
+1/1/2023 10:54,TXN1249,ACC15,38395.28,MerchantE,Transfer,Los Angeles
+1/1/2023 10:55,TXN198,ACC6,33288.25,MerchantC,Withdrawal,London
+1/1/2023 10:56,TXN1039,ACC15,62011.07,MerchantD,Withdrawal,Los Angeles
+1/1/2023 10:57,TXN420,ACC13,15175.97,MerchantA,Purchase,Tokyo
+1/1/2023 10:58,TXN1435,ACC7,14321.37,MerchantD,Withdrawal,San Francisco
+1/1/2023 10:59,TXN1546,ACC5,87677.8,MerchantA,Withdrawal,Tokyo
+1/1/2023 11:00,TXN1183,ACC15,84646.76,MerchantH,Transfer,Tokyo
+1/1/2023 11:01,TXN1672,ACC5,48640.88,MerchantD,Purchase,San Francisco
+1/1/2023 11:02,TXN1435,ACC15,59848.29,MerchantD,Withdrawal,Los Angeles
+1/1/2023 11:03,TXN1307,ACC5,82681.61,MerchantJ,Withdrawal,San Francisco
+1/1/2023 11:04,TXN302,ACC11,15343.61,MerchantH,Withdrawal,San Francisco
+1/1/2023 11:05,TXN985,ACC1,1820.84,MerchantD,Purchase,Tokyo
+1/1/2023 11:06,TXN1864,ACC15,15262.38,MerchantJ,Purchase,Los Angeles
+1/1/2023 11:07,TXN1053,ACC14,93437.36,MerchantF,Transfer,New York
+1/1/2023 11:08,TXN814,ACC5,98484.27,MerchantD,Withdrawal,New York
+1/1/2023 11:09,TXN1025,ACC15,31151.31,MerchantC,Transfer,Tokyo
+1/1/2023 11:10,TXN1455,ACC9,74427.52,MerchantJ,Purchase,Tokyo
+1/1/2023 11:11,TXN1690,ACC9,11435.59,MerchantD,Purchase,San Francisco
+1/1/2023 11:12,TXN75,ACC6,34641.14,MerchantB,Transfer,San Francisco
+1/1/2023 11:13,TXN347,ACC1,58710.95,MerchantC,Withdrawal,New York
+1/1/2023 11:14,TXN1991,ACC4,41898.36,MerchantH,Purchase,New York
+1/1/2023 11:15,TXN285,ACC15,27765.94,MerchantJ,Withdrawal,Tokyo
+1/1/2023 11:16,TXN1073,ACC7,97554.38,MerchantI,Purchase,London
+1/1/2023 11:17,TXN1654,ACC6,8544.11,MerchantH,Purchase,New York
+1/1/2023 11:18,TXN1760,ACC13,39737.84,MerchantC,Transfer,Los Angeles
+1/1/2023 11:19,TXN1342,ACC14,19076.87,MerchantH,Transfer,San Francisco
+1/1/2023 11:20,TXN769,ACC14,71408.78,MerchantB,Withdrawal,London
+1/1/2023 11:21,TXN1137,ACC2,49706.22,MerchantC,Transfer,London
+1/1/2023 11:22,TXN1921,ACC8,86179.94,MerchantG,Transfer,San Francisco
+1/1/2023 11:23,TXN1482,ACC3,64403.51,MerchantA,Transfer,London
+1/1/2023 11:24,TXN1824,ACC2,86700.71,MerchantH,Purchase,New York
+1/1/2023 11:25,TXN759,ACC3,23115.17,MerchantH,Withdrawal,New York
+1/1/2023 11:26,TXN1263,ACC5,17862.68,MerchantA,Transfer,San Francisco
+1/1/2023 11:27,TXN1827,ACC8,72229.47,MerchantH,Withdrawal,Los Angeles
+1/1/2023 11:28,TXN1936,ACC4,94441.53,MerchantF,Purchase,San Francisco
+1/1/2023 11:29,TXN7,ACC10,8560,MerchantG,Purchase,Los Angeles
+1/1/2023 11:30,TXN1648,ACC13,87645.64,MerchantB,Withdrawal,New York
+1/1/2023 11:31,TXN815,ACC5,34188.32,MerchantJ,Transfer,San Francisco
+1/1/2023 11:32,TXN707,ACC7,3432.47,MerchantD,Purchase,Tokyo
+1/1/2023 11:33,TXN934,ACC14,36282.16,MerchantE,Transfer,London
+1/1/2023 11:34,TXN1530,ACC6,77978.08,MerchantA,Withdrawal,Los Angeles
+1/1/2023 11:35,TXN1751,ACC1,48482.99,MerchantA,Withdrawal,New York
+1/1/2023 11:36,TXN552,ACC2,63351.49,MerchantG,Purchase,Los Angeles
+1/1/2023 11:37,TXN494,ACC4,13236.3,MerchantB,Transfer,Tokyo
+1/1/2023 11:38,TXN75,ACC6,91430.74,MerchantE,Withdrawal,London
+1/1/2023 11:39,TXN41,ACC6,6726.87,MerchantE,Purchase,San Francisco
+1/1/2023 11:40,TXN588,ACC7,10666.81,MerchantF,Purchase,Los Angeles
+1/1/2023 11:41,TXN1849,ACC15,87390.27,MerchantH,Withdrawal,London
+1/1/2023 11:42,TXN1773,ACC9,49432.44,MerchantJ,Purchase,New York
+1/1/2023 11:43,TXN922,ACC5,38320.02,MerchantJ,Withdrawal,San Francisco
+1/1/2023 11:44,TXN1020,ACC6,73805.98,MerchantC,Purchase,London
+1/1/2023 11:45,TXN1395,ACC10,6834.29,MerchantH,Transfer,London
+1/1/2023 11:46,TXN1137,ACC11,29719.2,MerchantC,Withdrawal,San Francisco
+1/1/2023 11:47,TXN55,ACC15,95409.15,MerchantF,Purchase,New York
+1/1/2023 11:48,TXN1786,ACC4,53988.88,MerchantC,Transfer,London
+1/1/2023 11:49,TXN1515,ACC1,49641.66,MerchantB,Purchase,San Francisco
+1/1/2023 11:50,TXN1474,ACC5,34444.93,MerchantH,Purchase,New York
+1/1/2023 11:51,TXN1241,ACC13,68843.36,MerchantJ,Purchase,Los Angeles
+1/1/2023 11:52,TXN131,ACC2,79943.59,MerchantC,Withdrawal,San Francisco
+1/1/2023 11:53,TXN524,ACC3,31466.51,MerchantA,Purchase,New York
+1/1/2023 11:54,TXN330,ACC9,44606.12,MerchantH,Transfer,Tokyo
+1/1/2023 11:55,TXN1105,ACC7,72413.09,MerchantF,Purchase,San Francisco
+1/1/2023 11:56,TXN1113,ACC12,22128.73,MerchantJ,Purchase,Tokyo
+1/1/2023 11:57,TXN1562,ACC15,4426.1,MerchantG,Purchase,San Francisco
+1/1/2023 11:58,TXN981,ACC6,91549.67,MerchantE,Transfer,New York
+1/1/2023 11:59,TXN883,ACC8,97106.11,MerchantG,Purchase,San Francisco
+1/1/2023 12:00,TXN1247,ACC14,5497.71,MerchantC,Withdrawal,Los Angeles
+1/1/2023 12:01,TXN1514,ACC7,3710.39,MerchantH,Transfer,London
+1/1/2023 12:02,TXN188,ACC13,7704.55,MerchantE,Transfer,San Francisco
+1/1/2023 12:03,TXN183,ACC7,6544.98,MerchantH,Purchase,London
+1/1/2023 12:04,TXN1373,ACC6,31882.06,MerchantB,Purchase,Tokyo
+1/1/2023 12:05,TXN1450,ACC12,23303.62,MerchantG,Transfer,San Francisco
+1/1/2023 12:06,TXN546,ACC14,33.75,MerchantB,Transfer,Los Angeles
+1/1/2023 12:07,TXN1063,ACC14,35077.67,MerchantA,Purchase,Tokyo
+1/1/2023 12:08,TXN748,ACC9,58079.91,MerchantI,Withdrawal,New York
+1/1/2023 12:09,TXN1383,ACC4,73760.85,MerchantA,Transfer,Tokyo
+1/1/2023 12:10,TXN1166,ACC8,28731.03,MerchantD,Withdrawal,Tokyo
+1/1/2023 12:11,TXN1689,ACC1,91034.81,MerchantI,Transfer,New York
+1/1/2023 12:12,TXN1913,ACC8,12452.51,MerchantJ,Purchase,Tokyo
+1/1/2023 12:13,TXN939,ACC12,41763.9,MerchantH,Transfer,Los Angeles
+1/1/2023 12:14,TXN1086,ACC13,98918.6,MerchantG,Transfer,London
+1/1/2023 12:15,TXN1885,ACC15,23064.61,MerchantC,Purchase,San Francisco
+1/1/2023 12:16,TXN1131,ACC2,38415.22,MerchantI,Purchase,San Francisco
+1/1/2023 12:17,TXN259,ACC8,35019.02,MerchantE,Withdrawal,New York
+1/1/2023 12:18,TXN1545,ACC3,59731.43,MerchantA,Purchase,Los Angeles
+1/1/2023 12:19,TXN1514,ACC3,75826.27,MerchantA,Transfer,Los Angeles
+1/1/2023 12:20,TXN781,ACC8,74789.68,MerchantI,Purchase,London
+1/1/2023 12:21,TXN1934,ACC5,9157.77,MerchantI,Transfer,Los Angeles
+1/1/2023 12:22,TXN988,ACC13,88875.92,MerchantI,Withdrawal,London
+1/1/2023 12:23,TXN170,ACC9,32911.85,MerchantI,Purchase,Los Angeles
+1/1/2023 12:24,TXN955,ACC2,40851.24,MerchantF,Transfer,Tokyo
+1/1/2023 12:25,TXN1200,ACC10,53264.93,MerchantE,Purchase,London
+1/1/2023 12:26,TXN1989,ACC13,85122.18,MerchantH,Purchase,Tokyo
+1/1/2023 12:27,TXN115,ACC10,57136.18,MerchantH,Withdrawal,Los Angeles
+1/1/2023 12:28,TXN1997,ACC13,73393.65,MerchantH,Transfer,London
+1/1/2023 12:29,TXN353,ACC11,86730.75,MerchantI,Purchase,Los Angeles
+1/1/2023 12:30,TXN557,ACC9,93009.73,MerchantD,Transfer,Los Angeles
+1/1/2023 12:31,TXN422,ACC12,15868.92,MerchantJ,Purchase,Los Angeles
+1/1/2023 12:32,TXN1055,ACC7,524.47,MerchantE,Withdrawal,San Francisco
+1/1/2023 12:33,TXN356,ACC2,83215.1,MerchantG,Withdrawal,Tokyo
+1/1/2023 12:34,TXN1070,ACC11,98118.81,MerchantA,Transfer,San Francisco
+1/1/2023 12:35,TXN700,ACC8,81869.76,MerchantF,Transfer,San Francisco
+1/1/2023 12:36,TXN1257,ACC2,34193.8,MerchantE,Purchase,London
+1/1/2023 12:37,TXN916,ACC4,6793.03,MerchantA,Withdrawal,New York
+1/1/2023 12:38,TXN1930,ACC6,34594.85,MerchantJ,Transfer,San Francisco
+1/1/2023 12:39,TXN306,ACC14,97349.16,MerchantD,Transfer,Los Angeles
+1/1/2023 12:40,TXN948,ACC13,38367.39,MerchantA,Withdrawal,Los Angeles
+1/1/2023 12:41,TXN459,ACC10,112.94,MerchantB,Withdrawal,San Francisco
+1/1/2023 12:42,TXN1309,ACC4,42623.87,MerchantI,Transfer,Tokyo
+1/1/2023 12:43,TXN157,ACC11,22084.75,MerchantB,Transfer,London
+1/1/2023 12:44,TXN1046,ACC11,27333.22,MerchantA,Withdrawal,London
+1/1/2023 12:45,TXN1464,ACC12,73129.69,MerchantE,Transfer,London
+1/1/2023 12:46,TXN1798,ACC3,27428.78,MerchantC,Transfer,New York
+1/1/2023 12:47,TXN570,ACC12,72445.02,MerchantB,Purchase,Los Angeles
+1/1/2023 12:48,TXN1856,ACC1,65170.17,MerchantB,Transfer,London
+1/1/2023 12:49,TXN208,ACC11,96819.66,MerchantI,Purchase,Tokyo
+1/1/2023 12:50,TXN1333,ACC8,77094.48,MerchantB,Transfer,Los Angeles
+1/1/2023 12:51,TXN349,ACC12,3262.29,MerchantJ,Transfer,London
+1/1/2023 12:52,TXN1582,ACC15,48157.42,MerchantG,Purchase,London
+1/1/2023 12:53,TXN1876,ACC4,55845.68,MerchantI,Transfer,Tokyo
+1/1/2023 12:54,TXN117,ACC2,79757.93,MerchantA,Purchase,San Francisco
+1/1/2023 12:55,TXN1344,ACC2,47999.08,MerchantF,Transfer,Tokyo
+1/1/2023 12:56,TXN729,ACC1,95265.34,MerchantI,Transfer,Los Angeles
+1/1/2023 12:57,TXN1112,ACC9,24212.08,MerchantI,Withdrawal,London
+1/1/2023 12:58,TXN1684,ACC1,55969.27,MerchantB,Purchase,San Francisco
+1/1/2023 12:59,TXN225,ACC1,88254.52,MerchantA,Purchase,London
+1/1/2023 13:00,TXN1690,ACC6,32216.25,MerchantF,Transfer,San Francisco
+1/1/2023 13:01,TXN1710,ACC10,80060.66,MerchantB,Withdrawal,London
+1/1/2023 13:02,TXN1329,ACC8,63646.66,MerchantC,Transfer,New York
+1/1/2023 13:03,TXN774,ACC9,5206.61,MerchantI,Withdrawal,London
+1/1/2023 13:04,TXN1288,ACC8,71411.55,MerchantD,Withdrawal,Los Angeles
+1/1/2023 13:05,TXN383,ACC7,66085.4,MerchantD,Withdrawal,San Francisco
+1/1/2023 13:06,TXN22,ACC10,48095.57,MerchantI,Withdrawal,Los Angeles
+1/1/2023 13:07,TXN978,ACC6,59331.93,MerchantI,Purchase,Los Angeles
+1/1/2023 13:08,TXN122,ACC3,97586.77,MerchantD,Purchase,Tokyo
+1/1/2023 13:09,TXN1655,ACC5,65874.19,MerchantC,Withdrawal,San Francisco
+1/1/2023 13:10,TXN1747,ACC6,33238.14,MerchantH,Purchase,Los Angeles
+1/1/2023 13:11,TXN1667,ACC12,19962.25,MerchantC,Purchase,Tokyo
+1/1/2023 13:12,TXN1974,ACC15,20365.79,MerchantG,Purchase,Tokyo
+1/1/2023 13:13,TXN159,ACC10,74273.23,MerchantD,Purchase,London
+1/1/2023 13:14,TXN732,ACC12,76774.71,MerchantH,Withdrawal,New York
+1/1/2023 13:15,TXN947,ACC9,43867.16,MerchantE,Withdrawal,London
+1/1/2023 13:16,TXN578,ACC15,90071.18,MerchantF,Transfer,San Francisco
+1/1/2023 13:17,TXN755,ACC3,28392.61,MerchantC,Purchase,San Francisco
+1/1/2023 13:18,TXN1576,ACC5,73313.97,MerchantC,Withdrawal,London
+1/1/2023 13:19,TXN752,ACC14,17976.51,MerchantB,Transfer,Tokyo
+1/1/2023 13:20,TXN837,ACC6,49232.86,MerchantF,Purchase,New York
+1/1/2023 13:21,TXN1108,ACC2,9535.2,MerchantA,Transfer,New York
+1/1/2023 13:22,TXN28,ACC2,85800.05,MerchantE,Transfer,New York
+1/1/2023 13:23,TXN1448,ACC12,13096.06,MerchantG,Transfer,Los Angeles
+1/1/2023 13:24,TXN1034,ACC3,44208.02,MerchantJ,Purchase,San Francisco
+1/1/2023 13:25,TXN844,ACC14,14584.2,MerchantE,Transfer,London
+1/1/2023 13:26,TXN513,ACC9,16712.52,MerchantD,Purchase,Los Angeles
+1/1/2023 13:27,TXN1957,ACC15,66383.81,MerchantE,Purchase,New York
+1/1/2023 13:28,TXN1656,ACC12,44642.4,MerchantF,Transfer,Tokyo
+1/1/2023 13:29,TXN1940,ACC2,98669.43,MerchantI,Transfer,Tokyo
+1/1/2023 13:30,TXN1044,ACC10,3943.96,MerchantG,Transfer,Tokyo
+1/1/2023 13:31,TXN1781,ACC11,31622.45,MerchantA,Transfer,London
+1/1/2023 13:32,TXN490,ACC4,98663.15,MerchantH,Transfer,Los Angeles
+1/1/2023 13:33,TXN126,ACC2,32319.83,MerchantI,Transfer,Los Angeles
+1/1/2023 13:34,TXN1202,ACC7,66689.76,MerchantD,Transfer,Tokyo
+1/1/2023 13:35,TXN308,ACC2,20193.33,MerchantG,Withdrawal,Tokyo
+1/1/2023 13:36,TXN129,ACC7,67263.49,MerchantF,Purchase,San Francisco
+1/1/2023 13:37,TXN1217,ACC7,97863.34,MerchantJ,Withdrawal,San Francisco
+1/1/2023 13:38,TXN1169,ACC10,86891.81,MerchantH,Purchase,London
+1/1/2023 13:39,TXN987,ACC8,79553.08,MerchantD,Purchase,New York
+1/1/2023 13:40,TXN1171,ACC15,65891.96,MerchantE,Purchase,New York
+1/1/2023 13:41,TXN1626,ACC14,65787.95,MerchantB,Withdrawal,New York
+1/1/2023 13:42,TXN1185,ACC9,99333.76,MerchantI,Purchase,Tokyo
+1/1/2023 13:43,TXN1183,ACC9,10919.87,MerchantB,Purchase,London
+1/1/2023 13:44,TXN1638,ACC3,80786.52,MerchantB,Purchase,New York
+1/1/2023 13:45,TXN1303,ACC3,86891.37,MerchantA,Withdrawal,New York
+1/1/2023 13:46,TXN725,ACC15,63024.57,MerchantJ,Transfer,Tokyo
+1/1/2023 13:47,TXN1939,ACC12,54854.49,MerchantA,Purchase,New York
+1/1/2023 13:48,TXN291,ACC12,1476.56,MerchantC,Withdrawal,San Francisco
+1/1/2023 13:49,TXN962,ACC14,50049.53,MerchantE,Withdrawal,San Francisco
+1/1/2023 13:50,TXN454,ACC12,2573.95,MerchantJ,Purchase,London
+1/1/2023 13:51,TXN1157,ACC2,52667.11,MerchantD,Transfer,Los Angeles
+1/1/2023 13:52,TXN944,ACC7,81300.44,MerchantB,Transfer,Los Angeles
+1/1/2023 13:53,TXN1005,ACC5,19585.84,MerchantG,Transfer,Tokyo
+1/1/2023 13:54,TXN1148,ACC15,24355.79,MerchantC,Transfer,London
+1/1/2023 13:55,TXN789,ACC13,35168.75,MerchantB,Withdrawal,Tokyo
+1/1/2023 13:56,TXN964,ACC5,28494.44,MerchantC,Withdrawal,London
+1/1/2023 13:57,TXN670,ACC2,39996.52,MerchantD,Withdrawal,New York
+1/1/2023 13:58,TXN350,ACC11,12331.03,MerchantJ,Transfer,Tokyo
+1/1/2023 13:59,TXN159,ACC7,29534.88,MerchantA,Withdrawal,Tokyo
+1/1/2023 14:00,TXN298,ACC8,96293.06,MerchantD,Withdrawal,New York
+1/1/2023 14:01,TXN1196,ACC8,52654.65,MerchantG,Withdrawal,Tokyo
+1/1/2023 14:02,TXN726,ACC12,22815.7,MerchantI,Transfer,San Francisco
+1/1/2023 14:03,TXN984,ACC10,36083.64,MerchantJ,Purchase,San Francisco
+1/1/2023 14:04,TXN859,ACC5,30213.03,MerchantH,Transfer,London
+1/1/2023 14:05,TXN1084,ACC7,66758.31,MerchantB,Transfer,London
+1/1/2023 14:06,TXN1994,ACC1,42400.24,MerchantE,Transfer,New York
+1/1/2023 14:07,TXN483,ACC12,86281.08,MerchantG,Purchase,New York
+1/1/2023 14:08,TXN662,ACC5,64200.73,MerchantG,Transfer,San Francisco
+1/1/2023 14:09,TXN969,ACC14,63205.23,MerchantI,Withdrawal,New York
+1/1/2023 14:10,TXN770,ACC3,59708.72,MerchantB,Transfer,San Francisco
+1/1/2023 14:11,TXN1398,ACC13,71762.6,MerchantA,Transfer,London
+1/1/2023 14:12,TXN302,ACC3,60325.91,MerchantF,Withdrawal,Tokyo
+1/1/2023 14:13,TXN1006,ACC4,8574.97,MerchantA,Transfer,New York
+1/1/2023 14:14,TXN648,ACC1,22673.37,MerchantI,Transfer,London
+1/1/2023 14:15,TXN1805,ACC1,83187.99,MerchantE,Transfer,Tokyo
+1/1/2023 14:16,TXN776,ACC6,59285.27,MerchantC,Withdrawal,London
+1/1/2023 14:17,TXN381,ACC10,33306.86,MerchantF,Withdrawal,London
+1/1/2023 14:18,TXN770,ACC6,55782.76,MerchantB,Transfer,London
+1/1/2023 14:19,TXN1288,ACC6,56234.06,MerchantD,Purchase,Tokyo
+1/1/2023 14:20,TXN1501,ACC15,75486.23,MerchantG,Withdrawal,New York
+1/1/2023 14:21,TXN55,ACC12,34763.68,MerchantH,Transfer,Tokyo
+1/1/2023 14:22,TXN1303,ACC12,97416.72,MerchantF,Purchase,London
+1/1/2023 14:23,TXN1896,ACC8,54000.31,MerchantI,Withdrawal,Tokyo
+1/1/2023 14:24,TXN1108,ACC6,25712.16,MerchantH,Transfer,New York
+1/1/2023 14:25,TXN1013,ACC12,78204.99,MerchantB,Purchase,London
+1/1/2023 14:26,TXN481,ACC7,26318.63,MerchantB,Purchase,Tokyo
+1/1/2023 14:27,TXN770,ACC11,23913.14,MerchantA,Transfer,Los Angeles
+1/1/2023 14:28,TXN1204,ACC14,44725.78,MerchantD,Withdrawal,Los Angeles
+1/1/2023 14:29,TXN406,ACC11,57462.99,MerchantE,Withdrawal,London
+1/1/2023 14:30,TXN1263,ACC1,11645.48,MerchantB,Purchase,Los Angeles
+1/1/2023 14:31,TXN1182,ACC8,53252.79,MerchantF,Transfer,London
+1/1/2023 14:32,TXN1550,ACC9,32259.57,MerchantC,Withdrawal,Los Angeles
+1/1/2023 14:33,TXN130,ACC3,34616.51,MerchantD,Withdrawal,San Francisco
+1/1/2023 14:34,TXN1561,ACC2,13261.14,MerchantF,Purchase,London
+1/1/2023 14:35,TXN95,ACC14,13928.41,MerchantF,Withdrawal,Tokyo
+1/1/2023 14:36,TXN1460,ACC3,95280.22,MerchantF,Purchase,Tokyo
+1/1/2023 14:37,TXN1141,ACC2,6826.55,MerchantB,Purchase,London
+1/1/2023 14:38,TXN1197,ACC12,77674.6,MerchantD,Withdrawal,Tokyo
+1/1/2023 14:39,TXN1852,ACC15,64086.22,MerchantB,Transfer,Los Angeles
+1/1/2023 14:40,TXN287,ACC3,56448.46,MerchantB,Withdrawal,New York
+1/1/2023 14:41,TXN642,ACC14,99486.68,MerchantH,Transfer,New York
+1/1/2023 14:42,TXN983,ACC3,17074.77,MerchantE,Purchase,London
+1/1/2023 14:43,TXN190,ACC14,10113.57,MerchantA,Transfer,New York
+1/1/2023 14:44,TXN101,ACC7,22088.05,MerchantD,Withdrawal,San Francisco
+1/1/2023 14:45,TXN1087,ACC5,88661.56,MerchantC,Transfer,Los Angeles
+1/1/2023 14:46,TXN92,ACC6,82755.51,MerchantE,Purchase,Tokyo
+1/1/2023 14:47,TXN510,ACC7,41621.24,MerchantE,Withdrawal,Tokyo
+1/1/2023 14:48,TXN650,ACC7,13719.6,MerchantG,Purchase,New York
+1/1/2023 14:49,TXN1037,ACC5,83431.99,MerchantE,Purchase,San Francisco
+1/1/2023 14:50,TXN173,ACC4,37147.14,MerchantA,Transfer,Tokyo
+1/1/2023 14:51,TXN308,ACC7,14932.29,MerchantD,Withdrawal,London
+1/1/2023 14:52,TXN624,ACC12,65174.55,MerchantC,Purchase,Tokyo
+1/1/2023 14:53,TXN1460,ACC13,45950.08,MerchantE,Withdrawal,Tokyo
+1/1/2023 14:54,TXN625,ACC9,10223.93,MerchantH,Purchase,New York
+1/1/2023 14:55,TXN129,ACC2,43765.94,MerchantA,Withdrawal,San Francisco
+1/1/2023 14:56,TXN1850,ACC12,78119.23,MerchantG,Withdrawal,Los Angeles
+1/1/2023 14:57,TXN726,ACC8,22704.2,MerchantA,Transfer,Tokyo
+1/1/2023 14:58,TXN467,ACC5,73746,MerchantA,Transfer,Tokyo
+1/1/2023 14:59,TXN1032,ACC13,3811.8,MerchantG,Transfer,New York
+1/1/2023 15:00,TXN1645,ACC3,7134.96,MerchantH,Purchase,Tokyo
+1/1/2023 15:01,TXN148,ACC5,38765.65,MerchantD,Transfer,London
+1/1/2023 15:02,TXN399,ACC3,66140.45,MerchantC,Transfer,San Francisco
+1/1/2023 15:03,TXN1285,ACC5,66033.67,MerchantH,Withdrawal,London
+1/1/2023 15:04,TXN1361,ACC15,78250.67,MerchantH,Purchase,New York
+1/1/2023 15:05,TXN962,ACC15,20576.67,MerchantA,Withdrawal,London
+1/1/2023 15:06,TXN1614,ACC9,64393.99,MerchantJ,Transfer,San Francisco
+1/1/2023 15:07,TXN1802,ACC5,12532.1,MerchantH,Withdrawal,Tokyo
+1/1/2023 15:08,TXN1717,ACC15,52081.61,MerchantB,Transfer,San Francisco
+1/1/2023 15:09,TXN783,ACC1,92809.08,MerchantG,Purchase,New York
+1/1/2023 15:10,TXN488,ACC11,55013.69,MerchantJ,Purchase,San Francisco
+1/1/2023 15:11,TXN790,ACC4,24076.86,MerchantE,Transfer,New York
+1/1/2023 15:12,TXN888,ACC5,28597.82,MerchantG,Transfer,New York
+1/1/2023 15:13,TXN780,ACC9,54406.22,MerchantE,Purchase,Tokyo
+1/1/2023 15:14,TXN1662,ACC8,74821.71,MerchantG,Transfer,London
+1/1/2023 15:15,TXN1760,ACC11,32012.78,MerchantF,Transfer,New York
+1/1/2023 15:16,TXN534,ACC12,4326.94,MerchantB,Withdrawal,Tokyo
+1/1/2023 15:17,TXN213,ACC15,9196.17,MerchantB,Transfer,Los Angeles
+1/1/2023 15:18,TXN1431,ACC8,34244.94,MerchantF,Transfer,Tokyo
+1/1/2023 15:19,TXN1725,ACC1,50840.97,MerchantF,Transfer,Tokyo
+1/1/2023 15:20,TXN1054,ACC7,57721.51,MerchantI,Purchase,San Francisco
+1/1/2023 15:21,TXN1210,ACC8,24675.42,MerchantE,Transfer,New York
+1/1/2023 15:22,TXN1924,ACC8,19403.45,MerchantJ,Withdrawal,Los Angeles
+1/1/2023 15:23,TXN473,ACC10,74237.38,MerchantG,Transfer,Los Angeles
+1/1/2023 15:24,TXN1090,ACC9,37532.24,MerchantI,Withdrawal,San Francisco
+1/1/2023 15:25,TXN602,ACC10,3540.78,MerchantA,Withdrawal,New York
+1/1/2023 15:26,TXN1442,ACC5,36800.4,MerchantC,Transfer,Los Angeles
+1/1/2023 15:27,TXN1125,ACC10,36837.27,MerchantD,Withdrawal,Los Angeles
+1/1/2023 15:28,TXN1178,ACC5,66307.57,MerchantF,Transfer,Tokyo
+1/1/2023 15:29,TXN202,ACC6,16696.84,MerchantI,Purchase,London
+1/1/2023 15:30,TXN273,ACC7,87427.5,MerchantC,Purchase,San Francisco
+1/1/2023 15:31,TXN1079,ACC4,56070.4,MerchantH,Withdrawal,San Francisco
+1/1/2023 15:32,TXN1939,ACC15,2303.05,MerchantC,Purchase,Los Angeles
+1/1/2023 15:33,TXN406,ACC8,33430.49,MerchantJ,Withdrawal,Tokyo
+1/1/2023 15:34,TXN927,ACC4,51731.73,MerchantD,Withdrawal,New York
+1/1/2023 15:35,TXN1207,ACC1,8869.16,MerchantD,Purchase,Los Angeles
+1/1/2023 15:36,TXN476,ACC11,76661.19,MerchantI,Withdrawal,Tokyo
+1/1/2023 15:37,TXN161,ACC1,63758.95,MerchantD,Transfer,Los Angeles
+1/1/2023 15:38,TXN399,ACC6,99112.73,MerchantG,Purchase,San Francisco
+1/1/2023 15:39,TXN1424,ACC5,18455.78,MerchantJ,Withdrawal,Los Angeles
+1/1/2023 15:40,TXN973,ACC11,2428.93,MerchantF,Purchase,New York
+1/1/2023 15:41,TXN1901,ACC3,94068.52,MerchantJ,Transfer,San Francisco
+1/1/2023 15:42,TXN581,ACC13,46178.66,MerchantD,Purchase,Tokyo
+1/1/2023 15:43,TXN1098,ACC5,70604.84,MerchantJ,Withdrawal,San Francisco
+1/1/2023 15:44,TXN931,ACC1,78023.5,MerchantD,Withdrawal,New York
+1/1/2023 15:45,TXN1206,ACC14,61026.41,MerchantI,Transfer,London
+1/1/2023 15:46,TXN1688,ACC9,95661.9,MerchantH,Withdrawal,London
+1/1/2023 15:47,TXN903,ACC3,27568.48,MerchantH,Withdrawal,San Francisco
+1/1/2023 15:48,TXN1753,ACC13,26821.22,MerchantI,Purchase,London
+1/1/2023 15:49,TXN1720,ACC11,6274.69,MerchantJ,Transfer,New York
+1/1/2023 15:50,TXN1557,ACC4,31525.8,MerchantG,Withdrawal,San Francisco
+1/1/2023 15:51,TXN672,ACC8,54836.58,MerchantH,Transfer,Tokyo
+1/1/2023 15:52,TXN1450,ACC10,41885.14,MerchantI,Purchase,San Francisco
+1/1/2023 15:53,TXN21,ACC2,14505.06,MerchantG,Withdrawal,Tokyo
+1/1/2023 15:54,TXN984,ACC1,46398.61,MerchantI,Purchase,London
+1/1/2023 15:55,TXN445,ACC9,2213.3,MerchantE,Transfer,San Francisco
+1/1/2023 15:56,TXN1017,ACC7,68378.57,MerchantA,Purchase,Tokyo
+1/1/2023 15:57,TXN573,ACC2,40403.75,MerchantI,Transfer,New York
+1/1/2023 15:58,TXN529,ACC2,8181.72,MerchantF,Withdrawal,New York
+1/1/2023 15:59,TXN842,ACC5,14104.55,MerchantF,Purchase,San Francisco
+1/1/2023 16:00,TXN842,ACC2,86200.07,MerchantC,Purchase,London
+1/1/2023 16:01,TXN344,ACC15,51255.14,MerchantJ,Transfer,Los Angeles
+1/1/2023 16:02,TXN1855,ACC1,20144.36,MerchantG,Purchase,London
+1/1/2023 16:03,TXN1178,ACC15,75844.92,MerchantD,Withdrawal,Tokyo
+1/1/2023 16:04,TXN79,ACC6,16170.36,MerchantI,Withdrawal,London
+1/1/2023 16:05,TXN1050,ACC1,2726.47,MerchantI,Withdrawal,Los Angeles
+1/1/2023 16:06,TXN1992,ACC12,53874.79,MerchantD,Transfer,London
+1/1/2023 16:07,TXN1815,ACC9,39744.17,MerchantC,Purchase,Los Angeles
+1/1/2023 16:08,TXN779,ACC8,18680.46,MerchantH,Purchase,London
+1/1/2023 16:09,TXN485,ACC5,31241.79,MerchantI,Transfer,San Francisco
+1/1/2023 16:10,TXN554,ACC12,69592.95,MerchantB,Transfer,Los Angeles
+1/1/2023 16:11,TXN877,ACC3,89719.66,MerchantH,Withdrawal,New York
+1/1/2023 16:12,TXN220,ACC1,3348.03,MerchantH,Purchase,London
+1/1/2023 16:13,TXN688,ACC11,31323.07,MerchantF,Withdrawal,Los Angeles
+1/1/2023 16:14,TXN544,ACC9,80362.32,MerchantG,Purchase,Tokyo
+1/1/2023 16:15,TXN1911,ACC5,66795.32,MerchantB,Withdrawal,San Francisco
+1/1/2023 16:16,TXN1759,ACC11,16231.72,MerchantE,Purchase,Los Angeles
+1/1/2023 16:17,TXN353,ACC4,71938.17,MerchantB,Withdrawal,Tokyo
+1/1/2023 16:18,TXN227,ACC13,33690.68,MerchantI,Withdrawal,San Francisco
+1/1/2023 16:19,TXN646,ACC3,75960.65,MerchantI,Transfer,San Francisco
+1/1/2023 16:20,TXN943,ACC12,45931.93,MerchantE,Withdrawal,Los Angeles
+1/1/2023 16:21,TXN588,ACC12,52548.24,MerchantE,Withdrawal,New York
+1/1/2023 16:22,TXN981,ACC3,14205.78,MerchantI,Transfer,San Francisco
+1/1/2023 16:23,TXN1338,ACC11,65118.25,MerchantF,Purchase,Tokyo
+1/1/2023 16:24,TXN620,ACC11,84375.3,MerchantC,Purchase,London
+1/1/2023 16:25,TXN893,ACC2,32517.15,MerchantH,Transfer,New York
+1/1/2023 16:26,TXN1684,ACC12,99174.34,MerchantG,Transfer,Los Angeles
+1/1/2023 16:27,TXN516,ACC10,51270.35,MerchantF,Transfer,Tokyo
+1/1/2023 16:28,TXN227,ACC9,30401.6,MerchantD,Withdrawal,London
+1/1/2023 16:29,TXN460,ACC1,76608.82,MerchantC,Purchase,San Francisco
+1/1/2023 16:30,TXN1139,ACC1,87423.93,MerchantG,Transfer,Los Angeles
+1/1/2023 16:31,TXN1378,ACC8,37956.5,MerchantD,Purchase,Los Angeles
+1/1/2023 16:32,TXN1683,ACC14,80237.41,MerchantD,Purchase,New York
+1/1/2023 16:33,TXN424,ACC8,2727.23,MerchantF,Transfer,New York
+1/1/2023 16:34,TXN83,ACC14,91077.91,MerchantJ,Transfer,New York
+1/1/2023 16:35,TXN284,ACC4,98180.05,MerchantI,Transfer,London
+1/1/2023 16:36,TXN1399,ACC9,28159.3,MerchantD,Withdrawal,Tokyo
+1/1/2023 16:37,TXN1853,ACC4,9662.48,MerchantI,Purchase,London
+1/1/2023 16:38,TXN89,ACC14,59839.76,MerchantC,Purchase,Los Angeles
+1/1/2023 16:39,TXN334,ACC14,59884.84,MerchantD,Withdrawal,New York
+1/1/2023 16:40,TXN1661,ACC14,34047.18,MerchantH,Transfer,Tokyo
+1/1/2023 16:41,TXN1086,ACC1,28536.18,MerchantC,Transfer,San Francisco
+1/1/2023 16:42,TXN1493,ACC15,65885.92,MerchantD,Purchase,Los Angeles
+1/1/2023 16:43,TXN1708,ACC1,73759.2,MerchantI,Purchase,New York
+1/1/2023 16:44,TXN1348,ACC3,82930.39,MerchantH,Purchase,Tokyo
+1/1/2023 16:45,TXN343,ACC15,8229.88,MerchantF,Withdrawal,New York
+1/1/2023 16:46,TXN659,ACC10,16490.82,MerchantF,Purchase,Los Angeles
+1/1/2023 16:47,TXN1574,ACC4,78882.34,MerchantC,Transfer,London
+1/1/2023 16:48,TXN540,ACC4,38457.29,MerchantC,Withdrawal,London
+1/1/2023 16:49,TXN194,ACC8,60069.1,MerchantG,Purchase,New York
+1/1/2023 16:50,TXN1608,ACC7,40703.12,MerchantF,Purchase,San Francisco
+1/1/2023 16:51,TXN1937,ACC13,47254.61,MerchantJ,Transfer,Los Angeles
+1/1/2023 16:52,TXN1404,ACC10,97153.55,MerchantA,Transfer,Los Angeles
+1/1/2023 16:53,TXN1456,ACC13,47434.1,MerchantA,Purchase,Tokyo
+1/1/2023 16:54,TXN998,ACC1,776.33,MerchantH,Transfer,London
+1/1/2023 16:55,TXN892,ACC1,33892.68,MerchantE,Purchase,New York
+1/1/2023 16:56,TXN704,ACC14,39685.72,MerchantF,Withdrawal,New York
+1/1/2023 16:57,TXN1801,ACC8,8718.41,MerchantI,Purchase,Tokyo
+1/1/2023 16:58,TXN819,ACC11,50746.12,MerchantI,Transfer,Tokyo
+1/1/2023 16:59,TXN1728,ACC11,4494.91,MerchantA,Transfer,London
+1/1/2023 17:00,TXN584,ACC8,67097.59,MerchantA,Purchase,San Francisco
+1/1/2023 17:01,TXN103,ACC12,82121.62,MerchantH,Purchase,Los Angeles
+1/1/2023 17:02,TXN174,ACC7,71760.04,MerchantG,Purchase,London
+1/1/2023 17:03,TXN850,ACC2,11457.62,MerchantA,Transfer,London
+1/1/2023 17:04,TXN594,ACC5,12111.29,MerchantH,Purchase,New York
+1/1/2023 17:05,TXN332,ACC10,32114.9,MerchantI,Transfer,San Francisco
+1/1/2023 17:06,TXN959,ACC13,67870.21,MerchantB,Transfer,Los Angeles
+1/1/2023 17:07,TXN1997,ACC10,50220.34,MerchantC,Withdrawal,New York
+1/1/2023 17:08,TXN1401,ACC7,87371.12,MerchantD,Withdrawal,Los Angeles
+1/1/2023 17:09,TXN629,ACC2,53003.85,MerchantC,Withdrawal,San Francisco
+1/1/2023 17:10,TXN1105,ACC9,42209.21,MerchantC,Transfer,New York
+1/1/2023 17:11,TXN1335,ACC13,39942.88,MerchantE,Purchase,New York
+1/1/2023 17:12,TXN1151,ACC15,46666.11,MerchantH,Purchase,London
+1/1/2023 17:13,TXN277,ACC6,85185.61,MerchantD,Transfer,Tokyo
+1/1/2023 17:14,TXN375,ACC9,30638.29,MerchantJ,Withdrawal,London
+1/1/2023 17:15,TXN1388,ACC2,38430.12,MerchantC,Transfer,New York
+1/1/2023 17:16,TXN1087,ACC7,31893.49,MerchantJ,Transfer,New York
+1/1/2023 17:17,TXN1142,ACC4,39303.49,MerchantH,Transfer,San Francisco
+1/1/2023 17:18,TXN440,ACC12,43058.63,MerchantD,Purchase,New York
+1/1/2023 17:19,TXN1217,ACC15,15454.43,MerchantJ,Withdrawal,London
+1/1/2023 17:20,TXN1443,ACC11,38593.59,MerchantA,Purchase,Tokyo
+1/1/2023 17:21,TXN1416,ACC2,84173.92,MerchantH,Withdrawal,New York
+1/1/2023 17:22,TXN1055,ACC4,16744.3,MerchantB,Purchase,Los Angeles
+1/1/2023 17:23,TXN1603,ACC11,13587.55,MerchantJ,Transfer,Los Angeles
+1/1/2023 17:24,TXN448,ACC11,16010.89,MerchantB,Withdrawal,Los Angeles
+1/1/2023 17:25,TXN125,ACC15,48790.24,MerchantJ,Purchase,San Francisco
+1/1/2023 17:26,TXN125,ACC5,95592.32,MerchantE,Transfer,London
+1/1/2023 17:27,TXN786,ACC12,54542.66,MerchantD,Purchase,Tokyo
+1/1/2023 17:28,TXN1760,ACC6,54145.35,MerchantE,Purchase,New York
+1/1/2023 17:29,TXN1933,ACC2,16842.01,MerchantE,Transfer,Los Angeles
+1/1/2023 17:30,TXN899,ACC10,82683.23,MerchantC,Withdrawal,New York
+1/1/2023 17:31,TXN341,ACC14,67741.96,MerchantE,Transfer,London
+1/1/2023 17:32,TXN1523,ACC1,58050.96,MerchantH,Purchase,Los Angeles
+1/1/2023 17:33,TXN909,ACC15,81677.53,MerchantD,Transfer,Tokyo
+1/1/2023 17:34,TXN273,ACC3,88032.67,MerchantH,Withdrawal,New York
+1/1/2023 17:35,TXN1688,ACC10,46149.94,MerchantG,Purchase,London
+1/1/2023 17:36,TXN517,ACC1,71091.36,MerchantF,Transfer,Los Angeles
+1/1/2023 17:37,TXN1141,ACC2,72217.1,MerchantF,Purchase,Los Angeles
+1/1/2023 17:38,TXN1511,ACC12,5783.53,MerchantH,Purchase,San Francisco
+1/1/2023 17:39,TXN1548,ACC6,14888.11,MerchantC,Withdrawal,London
+1/1/2023 17:40,TXN1772,ACC4,86356.12,MerchantG,Withdrawal,London
+1/1/2023 17:41,TXN1126,ACC11,20330.28,MerchantH,Transfer,Los Angeles
+1/1/2023 17:42,TXN715,ACC9,36233.19,MerchantA,Transfer,Tokyo
+1/1/2023 17:43,TXN974,ACC11,40764.35,MerchantC,Transfer,London
+1/1/2023 17:44,TXN903,ACC13,47653.57,MerchantI,Purchase,New York
+1/1/2023 17:45,TXN337,ACC1,29850.51,MerchantH,Transfer,Los Angeles
+1/1/2023 17:46,TXN443,ACC5,51048.14,MerchantG,Withdrawal,Tokyo
+1/1/2023 17:47,TXN1750,ACC11,87206.11,MerchantJ,Withdrawal,Tokyo
+1/1/2023 17:48,TXN1228,ACC2,33347.4,MerchantC,Withdrawal,New York
+1/1/2023 17:49,TXN1758,ACC15,99054.7,MerchantB,Withdrawal,New York
+1/1/2023 17:50,TXN1512,ACC7,241.73,MerchantC,Purchase,London
+1/1/2023 17:51,TXN25,ACC5,74050.21,MerchantE,Purchase,Tokyo
+1/1/2023 17:52,TXN188,ACC9,76613.93,MerchantD,Transfer,San Francisco
+1/1/2023 17:53,TXN703,ACC8,39916.03,MerchantB,Withdrawal,London
+1/1/2023 17:54,TXN414,ACC15,6610.32,MerchantC,Transfer,London
+1/1/2023 17:55,TXN1997,ACC13,69778.65,MerchantC,Transfer,San Francisco
+1/1/2023 17:56,TXN936,ACC1,50067.42,MerchantJ,Withdrawal,London
+1/1/2023 17:57,TXN322,ACC2,71013.9,MerchantH,Transfer,London
+1/1/2023 17:58,TXN1314,ACC7,40136.59,MerchantG,Withdrawal,Los Angeles
+1/1/2023 17:59,TXN1654,ACC13,58329.92,MerchantG,Purchase,New York
+1/1/2023 18:00,TXN1257,ACC14,97898.32,MerchantE,Transfer,Tokyo
+1/1/2023 18:01,TXN1811,ACC9,75963.55,MerchantA,Transfer,San Francisco
+1/1/2023 18:02,TXN1034,ACC4,62482.14,MerchantD,Withdrawal,San Francisco
+1/1/2023 18:03,TXN412,ACC14,82255.25,MerchantH,Transfer,London
+1/1/2023 18:04,TXN1229,ACC11,77536.86,MerchantB,Transfer,San Francisco
+1/1/2023 18:05,TXN850,ACC8,62959.47,MerchantI,Purchase,New York
+1/1/2023 18:06,TXN991,ACC1,51117.8,MerchantJ,Withdrawal,New York
+1/1/2023 18:07,TXN1367,ACC8,83935.46,MerchantI,Withdrawal,Tokyo
+1/1/2023 18:08,TXN940,ACC9,8280.72,MerchantI,Purchase,Los Angeles
+1/1/2023 18:09,TXN1683,ACC9,84272.76,MerchantD,Withdrawal,Los Angeles
+1/1/2023 18:10,TXN141,ACC3,90995.21,MerchantH,Transfer,Tokyo
+1/1/2023 18:11,TXN401,ACC10,4238.75,MerchantA,Transfer,New York
+1/1/2023 18:12,TXN632,ACC7,446.28,MerchantG,Purchase,Tokyo
+1/1/2023 18:13,TXN235,ACC13,18288.9,MerchantH,Transfer,New York
+1/1/2023 18:14,TXN1476,ACC15,94398.79,MerchantI,Purchase,London
+1/1/2023 18:15,TXN979,ACC3,64418.48,MerchantJ,Purchase,Tokyo
+1/1/2023 18:16,TXN1526,ACC7,50045.11,MerchantI,Transfer,San Francisco
+1/1/2023 18:17,TXN1792,ACC14,77080.35,MerchantI,Transfer,New York
+1/1/2023 18:18,TXN1037,ACC2,55211.42,MerchantD,Transfer,San Francisco
+1/1/2023 18:19,TXN1552,ACC9,65738.77,MerchantF,Withdrawal,New York
+1/1/2023 18:20,TXN1124,ACC13,75404.76,MerchantB,Purchase,London
+1/1/2023 18:21,TXN274,ACC3,31569.58,MerchantE,Withdrawal,New York
+1/1/2023 18:22,TXN356,ACC5,28748.09,MerchantC,Purchase,New York
+1/1/2023 18:23,TXN49,ACC6,78203.71,MerchantE,Transfer,Tokyo
+1/1/2023 18:24,TXN1610,ACC14,24196.47,MerchantF,Withdrawal,New York
+1/1/2023 18:25,TXN868,ACC14,41370.13,MerchantI,Transfer,New York
+1/1/2023 18:26,TXN1804,ACC6,26674.85,MerchantI,Withdrawal,London
+1/1/2023 18:27,TXN858,ACC6,76233.28,MerchantG,Transfer,New York
+1/1/2023 18:28,TXN104,ACC12,97601.62,MerchantF,Purchase,San Francisco
+1/1/2023 18:29,TXN1723,ACC15,80717.48,MerchantB,Purchase,Tokyo
+1/1/2023 18:30,TXN665,ACC1,73905.27,MerchantG,Purchase,London
+1/1/2023 18:31,TXN1552,ACC11,66304.1,MerchantG,Transfer,Los Angeles
+1/1/2023 18:32,TXN457,ACC11,82978.01,MerchantG,Purchase,Tokyo
+1/1/2023 18:33,TXN1238,ACC11,30298.54,MerchantC,Purchase,New York
+1/1/2023 18:34,TXN157,ACC2,60333.15,MerchantG,Withdrawal,London
+1/1/2023 18:35,TXN1626,ACC8,94273,MerchantE,Withdrawal,Los Angeles
+1/1/2023 18:36,TXN1167,ACC12,77695.03,MerchantA,Transfer,San Francisco
+1/1/2023 18:37,TXN1516,ACC7,14088.89,MerchantJ,Purchase,San Francisco
+1/1/2023 18:38,TXN507,ACC13,27630.97,MerchantE,Transfer,London
+1/1/2023 18:39,TXN1995,ACC11,80987.92,MerchantD,Withdrawal,London
+1/1/2023 18:40,TXN1593,ACC15,6072.29,MerchantB,Withdrawal,New York
+1/1/2023 18:41,TXN1906,ACC5,49736.27,MerchantI,Transfer,New York
+1/1/2023 18:42,TXN946,ACC6,52970.68,MerchantJ,Purchase,Tokyo
+1/1/2023 18:43,TXN1414,ACC6,92866.74,MerchantB,Withdrawal,San Francisco
+1/1/2023 18:44,TXN302,ACC13,45865.21,MerchantC,Withdrawal,Tokyo
+1/1/2023 18:45,TXN520,ACC12,89768.49,MerchantA,Purchase,Los Angeles
+1/1/2023 18:46,TXN333,ACC2,85379.95,MerchantF,Purchase,London
+1/1/2023 18:47,TXN1891,ACC12,99481.98,MerchantJ,Withdrawal,New York
+1/1/2023 18:48,TXN1356,ACC11,45901.76,MerchantB,Transfer,San Francisco
+1/1/2023 18:49,TXN154,ACC6,19018.86,MerchantC,Purchase,Los Angeles
+1/1/2023 18:50,TXN125,ACC2,69834.13,MerchantE,Withdrawal,San Francisco
+1/1/2023 18:51,TXN1271,ACC8,16175.53,MerchantH,Withdrawal,London
+1/1/2023 18:52,TXN495,ACC14,64065.11,MerchantG,Purchase,Los Angeles
+1/1/2023 18:53,TXN1620,ACC8,76360.27,MerchantF,Purchase,Tokyo
+1/1/2023 18:54,TXN74,ACC4,35709.36,MerchantJ,Transfer,Los Angeles
+1/1/2023 18:55,TXN1752,ACC10,32173.78,MerchantB,Transfer,Los Angeles
+1/1/2023 18:56,TXN790,ACC5,24588.29,MerchantC,Purchase,Tokyo
+1/1/2023 18:57,TXN10,ACC4,28895.61,MerchantH,Transfer,Los Angeles
+1/1/2023 18:58,TXN546,ACC3,49472.57,MerchantI,Purchase,New York
+1/1/2023 18:59,TXN1859,ACC4,9081.26,MerchantC,Transfer,New York
+1/1/2023 19:00,TXN1383,ACC11,27562.04,MerchantA,Withdrawal,Tokyo
+1/1/2023 19:01,TXN116,ACC13,56411.76,MerchantB,Purchase,San Francisco
+1/1/2023 19:02,TXN1793,ACC10,87736.79,MerchantD,Transfer,San Francisco
+1/1/2023 19:03,TXN315,ACC11,75179.7,MerchantE,Withdrawal,New York
+1/1/2023 19:04,TXN1425,ACC6,86678.37,MerchantI,Purchase,London
+1/1/2023 19:05,TXN709,ACC11,56336.83,MerchantE,Transfer,London
+1/1/2023 19:06,TXN282,ACC3,28256.78,MerchantG,Transfer,San Francisco
+1/1/2023 19:07,TXN552,ACC5,41950.6,MerchantD,Transfer,San Francisco
+1/1/2023 19:08,TXN84,ACC15,54455.13,MerchantH,Purchase,Los Angeles
+1/1/2023 19:09,TXN112,ACC7,3290.63,MerchantI,Transfer,London
+1/1/2023 19:10,TXN1914,ACC15,87950.86,MerchantA,Transfer,Los Angeles
+1/1/2023 19:11,TXN40,ACC15,33225.78,MerchantB,Purchase,San Francisco
+1/1/2023 19:12,TXN1028,ACC3,51570.78,MerchantA,Transfer,Tokyo
+1/1/2023 19:13,TXN1272,ACC4,42528.57,MerchantE,Transfer,Tokyo
+1/1/2023 19:14,TXN1854,ACC9,11.16,MerchantI,Withdrawal,Tokyo
+1/1/2023 19:15,TXN1849,ACC10,20064.02,MerchantG,Withdrawal,Tokyo
+1/1/2023 19:16,TXN1341,ACC4,23049.36,MerchantC,Withdrawal,London
+1/1/2023 19:17,TXN844,ACC6,73175.16,MerchantD,Transfer,New York
+1/1/2023 19:18,TXN1989,ACC13,42268.69,MerchantB,Withdrawal,Tokyo
+1/1/2023 19:19,TXN537,ACC11,27151.14,MerchantI,Withdrawal,Los Angeles
+1/1/2023 19:20,TXN1071,ACC6,40581.06,MerchantH,Withdrawal,Tokyo
+1/1/2023 19:21,TXN310,ACC5,14968.65,MerchantG,Transfer,San Francisco
+1/1/2023 19:22,TXN1226,ACC11,26909.27,MerchantI,Purchase,Los Angeles
+1/1/2023 19:23,TXN1504,ACC10,48191.93,MerchantA,Transfer,New York
+1/1/2023 19:24,TXN1659,ACC5,56013.57,MerchantA,Purchase,New York
+1/1/2023 19:25,TXN563,ACC4,97242.28,MerchantH,Withdrawal,Los Angeles
+1/1/2023 19:26,TXN1222,ACC1,12211.83,MerchantJ,Transfer,Tokyo
+1/1/2023 19:27,TXN1662,ACC9,27414.42,MerchantI,Purchase,New York
+1/1/2023 19:28,TXN1165,ACC6,33567.69,MerchantD,Purchase,Los Angeles
+1/1/2023 19:29,TXN1361,ACC15,76474.27,MerchantG,Purchase,New York
+1/1/2023 19:30,TXN963,ACC10,16311.9,MerchantD,Withdrawal,New York
+1/1/2023 19:31,TXN851,ACC11,83901.34,MerchantH,Withdrawal,San Francisco
+1/1/2023 19:32,TXN1825,ACC14,84329.38,MerchantG,Transfer,Tokyo
+1/1/2023 19:33,TXN1875,ACC6,54647.57,MerchantA,Transfer,Tokyo
+1/1/2023 19:34,TXN193,ACC5,71848.21,MerchantF,Purchase,Los Angeles
+1/1/2023 19:35,TXN659,ACC12,22680.47,MerchantJ,Purchase,London
+1/1/2023 19:36,TXN1119,ACC4,62506.67,MerchantB,Withdrawal,Los Angeles
+1/1/2023 19:37,TXN313,ACC5,7098.45,MerchantH,Transfer,Los Angeles
+1/1/2023 19:38,TXN1650,ACC7,90609.65,MerchantB,Purchase,New York
+1/1/2023 19:39,TXN1036,ACC14,39074.3,MerchantE,Transfer,London
+1/1/2023 19:40,TXN1425,ACC6,33411.66,MerchantI,Withdrawal,Tokyo
+1/1/2023 19:41,TXN118,ACC8,78378.15,MerchantB,Purchase,Los Angeles
+1/1/2023 19:42,TXN726,ACC5,7220.39,MerchantG,Purchase,Tokyo
+1/1/2023 19:43,TXN1108,ACC6,73351.34,MerchantG,Withdrawal,Los Angeles
+1/1/2023 19:44,TXN128,ACC6,60114.26,MerchantD,Purchase,San Francisco
+1/1/2023 19:45,TXN831,ACC10,91473.96,MerchantH,Withdrawal,Tokyo
+1/1/2023 19:46,TXN202,ACC1,10321.11,MerchantJ,Purchase,London
+1/1/2023 19:47,TXN1342,ACC9,73791.12,MerchantJ,Purchase,New York
+1/1/2023 19:48,TXN1755,ACC1,39767.26,MerchantC,Withdrawal,San Francisco
+1/1/2023 19:49,TXN1369,ACC3,26860.69,MerchantH,Withdrawal,San Francisco
+1/1/2023 19:50,TXN1963,ACC7,7707.18,MerchantF,Transfer,New York
+1/1/2023 19:51,TXN950,ACC4,59908.47,MerchantD,Transfer,San Francisco
+1/1/2023 19:52,TXN1438,ACC5,1520.92,MerchantC,Withdrawal,Los Angeles
+1/1/2023 19:53,TXN1802,ACC9,70665.92,MerchantF,Purchase,Los Angeles
+1/1/2023 19:54,TXN100,ACC11,59770.85,MerchantD,Purchase,Los Angeles
+1/1/2023 19:55,TXN1178,ACC9,15491.31,MerchantF,Transfer,Tokyo
+1/1/2023 19:56,TXN891,ACC8,58762.71,MerchantB,Withdrawal,New York
+1/1/2023 19:57,TXN284,ACC1,1549.34,MerchantD,Transfer,New York
+1/1/2023 19:58,TXN1161,ACC4,93965.75,MerchantJ,Purchase,Tokyo
+1/1/2023 19:59,TXN46,ACC10,73943.43,MerchantF,Withdrawal,New York
+1/1/2023 20:00,TXN842,ACC2,74285.07,MerchantB,Transfer,London
+1/1/2023 20:01,TXN1531,ACC5,91455.72,MerchantD,Purchase,Los Angeles
+1/1/2023 20:02,TXN73,ACC11,915.33,MerchantH,Purchase,Los Angeles
+1/1/2023 20:03,TXN377,ACC9,24209.79,MerchantD,Purchase,New York
+1/1/2023 20:04,TXN757,ACC7,5011.36,MerchantD,Transfer,New York
+1/1/2023 20:05,TXN1390,ACC5,7723.75,MerchantB,Transfer,Tokyo
+1/1/2023 20:06,TXN946,ACC3,21542.28,MerchantA,Transfer,San Francisco
+1/1/2023 20:07,TXN1630,ACC7,83850.8,MerchantF,Transfer,Los Angeles
+1/1/2023 20:08,TXN1188,ACC11,28337.64,MerchantH,Withdrawal,Los Angeles
+1/1/2023 20:09,TXN1994,ACC6,74290.72,MerchantH,Transfer,Los Angeles
+1/1/2023 20:10,TXN494,ACC10,42755.29,MerchantF,Transfer,New York
+1/1/2023 20:11,TXN295,ACC1,86520.68,MerchantA,Withdrawal,Tokyo
+1/1/2023 20:12,TXN649,ACC2,78740.83,MerchantE,Withdrawal,Tokyo
+1/1/2023 20:13,TXN1594,ACC11,63799.05,MerchantF,Withdrawal,London
+1/1/2023 20:14,TXN1650,ACC12,14447.32,MerchantB,Withdrawal,Los Angeles
+1/1/2023 20:15,TXN1722,ACC9,20117.86,MerchantF,Transfer,Tokyo
+1/1/2023 20:16,TXN875,ACC6,2840.84,MerchantA,Transfer,Los Angeles
+1/1/2023 20:17,TXN974,ACC6,65520.82,MerchantA,Withdrawal,Tokyo
+1/1/2023 20:18,TXN1008,ACC13,7058.49,MerchantJ,Purchase,San Francisco
+1/1/2023 20:19,TXN455,ACC3,81414.43,MerchantD,Transfer,Los Angeles
+1/1/2023 20:20,TXN964,ACC5,806.36,MerchantH,Withdrawal,New York
+1/1/2023 20:21,TXN277,ACC13,35385.38,MerchantD,Purchase,Tokyo
+1/1/2023 20:22,TXN1335,ACC14,91379.71,MerchantE,Withdrawal,San Francisco
+1/1/2023 20:23,TXN1201,ACC10,27157.16,MerchantA,Purchase,Tokyo
+1/1/2023 20:24,TXN829,ACC9,7773.3,MerchantC,Transfer,New York
+1/1/2023 20:25,TXN630,ACC5,67697.31,MerchantA,Transfer,Los Angeles
+1/1/2023 20:26,TXN414,ACC9,1334.97,MerchantI,Purchase,Tokyo
+1/1/2023 20:27,TXN1623,ACC13,72195.7,MerchantD,Transfer,Tokyo
+1/1/2023 20:28,TXN1425,ACC7,209.19,MerchantB,Purchase,London
+1/1/2023 20:29,TXN1042,ACC14,16144.67,MerchantA,Withdrawal,New York
+1/1/2023 20:30,TXN638,ACC11,73244.06,MerchantC,Withdrawal,San Francisco
+1/1/2023 20:31,TXN1674,ACC15,10543.49,MerchantD,Withdrawal,New York
+1/1/2023 20:32,TXN1258,ACC12,31107.14,MerchantG,Transfer,Los Angeles
+1/1/2023 20:33,TXN118,ACC15,74941.55,MerchantH,Transfer,Tokyo
+1/1/2023 20:34,TXN137,ACC15,75388.97,MerchantA,Transfer,Los Angeles
+1/1/2023 20:35,TXN330,ACC8,70217.59,MerchantA,Purchase,San Francisco
+1/1/2023 20:36,TXN1378,ACC3,54673.06,MerchantA,Withdrawal,Tokyo
+1/1/2023 20:37,TXN1968,ACC15,11548.31,MerchantA,Purchase,Tokyo
+1/1/2023 20:38,TXN925,ACC7,14292.77,MerchantJ,Purchase,Tokyo
+1/1/2023 20:39,TXN1349,ACC10,89568.52,MerchantG,Withdrawal,New York
+1/1/2023 20:40,TXN1127,ACC5,77651.17,MerchantA,Transfer,New York
+1/1/2023 20:41,TXN251,ACC13,40817.82,MerchantE,Transfer,San Francisco
+1/1/2023 20:42,TXN1404,ACC9,73134.34,MerchantI,Purchase,Tokyo
+1/1/2023 20:43,TXN505,ACC6,84334.18,MerchantC,Transfer,New York
+1/1/2023 20:44,TXN1223,ACC14,51061.07,MerchantC,Withdrawal,New York
+1/1/2023 20:45,TXN429,ACC15,46636.31,MerchantE,Withdrawal,New York
+1/1/2023 20:46,TXN1256,ACC2,90178.39,MerchantB,Withdrawal,London
+1/1/2023 20:47,TXN751,ACC9,74310.72,MerchantD,Purchase,New York
+1/1/2023 20:48,TXN685,ACC2,37553.14,MerchantF,Transfer,London
+1/1/2023 20:49,TXN1984,ACC13,55910.34,MerchantC,Transfer,Los Angeles
+1/1/2023 20:50,TXN1718,ACC14,37259.6,MerchantG,Withdrawal,London
+1/1/2023 20:51,TXN1531,ACC12,72276.55,MerchantJ,Transfer,Los Angeles
+1/1/2023 20:52,TXN96,ACC11,37928.86,MerchantB,Withdrawal,New York
+1/1/2023 20:53,TXN905,ACC12,63202.55,MerchantB,Purchase,New York
+1/1/2023 20:54,TXN1956,ACC8,42612.84,MerchantJ,Purchase,Tokyo
+1/1/2023 20:55,TXN1854,ACC7,67750.57,MerchantD,Purchase,Los Angeles
+1/1/2023 20:56,TXN485,ACC3,62051.17,MerchantG,Purchase,London
+1/1/2023 20:57,TXN1926,ACC13,15876.3,MerchantG,Transfer,Los Angeles
+1/1/2023 20:58,TXN1813,ACC10,88913.9,MerchantE,Purchase,San Francisco
+1/1/2023 20:59,TXN844,ACC10,41502.97,MerchantF,Transfer,New York
+1/1/2023 21:00,TXN1064,ACC13,21499.11,MerchantJ,Transfer,New York
+1/1/2023 21:01,TXN1754,ACC2,13373.72,MerchantC,Withdrawal,San Francisco
+1/1/2023 21:02,TXN1342,ACC1,27201.88,MerchantF,Purchase,Los Angeles
+1/1/2023 21:03,TXN678,ACC3,63641.06,MerchantA,Withdrawal,Tokyo
+1/1/2023 21:04,TXN156,ACC5,69467.15,MerchantD,Transfer,San Francisco
+1/1/2023 21:05,TXN999,ACC5,81495.82,MerchantD,Transfer,London
+1/1/2023 21:06,TXN1893,ACC4,36841.04,MerchantH,Purchase,Tokyo
+1/1/2023 21:07,TXN575,ACC6,3377.3,MerchantE,Transfer,Tokyo
+1/1/2023 21:08,TXN828,ACC8,85813.46,MerchantF,Purchase,Los Angeles
+1/1/2023 21:09,TXN1528,ACC8,73625.53,MerchantG,Purchase,San Francisco
+1/1/2023 21:10,TXN1282,ACC8,24908.38,MerchantF,Purchase,Los Angeles
+1/1/2023 21:11,TXN1300,ACC12,32670.66,MerchantJ,Transfer,Tokyo
+1/1/2023 21:12,TXN859,ACC3,57120.52,MerchantA,Transfer,London
+1/1/2023 21:13,TXN459,ACC11,84919.41,MerchantF,Transfer,London
+1/1/2023 21:14,TXN1328,ACC5,23209.5,MerchantF,Transfer,San Francisco
+1/1/2023 21:15,TXN1457,ACC4,3903.41,MerchantJ,Transfer,Los Angeles
+1/1/2023 21:16,TXN1232,ACC5,86444.68,MerchantJ,Transfer,New York
+1/1/2023 21:17,TXN68,ACC13,63835.84,MerchantC,Transfer,San Francisco
+1/1/2023 21:18,TXN74,ACC13,38929.15,MerchantD,Transfer,Los Angeles
+1/1/2023 21:19,TXN1646,ACC2,34197.11,MerchantE,Transfer,Los Angeles
+1/1/2023 21:20,TXN901,ACC3,44311.51,MerchantB,Withdrawal,New York
+1/1/2023 21:21,TXN170,ACC4,93993.78,MerchantB,Transfer,San Francisco
+1/1/2023 21:22,TXN888,ACC7,92505.47,MerchantE,Transfer,New York
+1/1/2023 21:23,TXN571,ACC15,97425.02,MerchantF,Withdrawal,Los Angeles
+1/1/2023 21:24,TXN833,ACC7,59934.22,MerchantH,Withdrawal,San Francisco
+1/1/2023 21:25,TXN943,ACC1,83738.33,MerchantB,Withdrawal,New York
+1/1/2023 21:26,TXN375,ACC11,69966.96,MerchantH,Withdrawal,London
+1/1/2023 21:27,TXN1246,ACC6,53598.15,MerchantH,Withdrawal,Tokyo
+1/1/2023 21:28,TXN973,ACC2,57265,MerchantF,Withdrawal,London
+1/1/2023 21:29,TXN1462,ACC10,74059.07,MerchantH,Transfer,London
+1/1/2023 21:30,TXN1032,ACC13,42339.28,MerchantA,Transfer,Los Angeles
+1/1/2023 21:31,TXN519,ACC13,97618.94,MerchantH,Transfer,Tokyo
+1/1/2023 21:32,TXN1239,ACC8,88459.48,MerchantI,Transfer,Los Angeles
+1/1/2023 21:33,TXN212,ACC5,89737.61,MerchantG,Purchase,Tokyo
+1/1/2023 21:34,TXN1758,ACC14,33534.55,MerchantG,Purchase,London
+1/1/2023 21:35,TXN945,ACC1,85256.22,MerchantC,Withdrawal,Los Angeles
+1/1/2023 21:36,TXN1122,ACC2,41627.64,MerchantJ,Withdrawal,Los Angeles
+1/1/2023 21:37,TXN276,ACC2,26863.53,MerchantJ,Transfer,Tokyo
+1/1/2023 21:38,TXN1108,ACC3,98530.53,MerchantI,Transfer,Los Angeles
+1/1/2023 21:39,TXN110,ACC8,21978.48,MerchantH,Withdrawal,London
+1/1/2023 21:40,TXN1073,ACC4,67402.68,MerchantD,Purchase,San Francisco
+1/1/2023 21:41,TXN1110,ACC4,14700.72,MerchantF,Transfer,San Francisco
+1/1/2023 21:42,TXN31,ACC7,70670.49,MerchantE,Withdrawal,San Francisco
+1/1/2023 21:43,TXN1448,ACC14,31175.87,MerchantG,Purchase,New York
+1/1/2023 21:44,TXN1271,ACC15,30653.28,MerchantI,Transfer,San Francisco
+1/1/2023 21:45,TXN181,ACC8,36387.33,MerchantF,Purchase,New York
+1/1/2023 21:46,TXN688,ACC2,66724.56,MerchantH,Purchase,San Francisco
+1/1/2023 21:47,TXN1295,ACC15,53806.89,MerchantG,Purchase,New York
+1/1/2023 21:48,TXN1056,ACC9,94042.52,MerchantJ,Transfer,Tokyo
+1/1/2023 21:49,TXN1106,ACC13,74166.73,MerchantF,Transfer,London
+1/1/2023 21:50,TXN1351,ACC9,85980.87,MerchantB,Transfer,London
+1/1/2023 21:51,TXN187,ACC9,51389.93,MerchantH,Purchase,Tokyo
+1/1/2023 21:52,TXN849,ACC1,17557.41,MerchantC,Purchase,New York
+1/1/2023 21:53,TXN188,ACC10,86961.91,MerchantF,Transfer,New York
+1/1/2023 21:54,TXN845,ACC11,14130.94,MerchantF,Purchase,Los Angeles
+1/1/2023 21:55,TXN1436,ACC3,18291.95,MerchantB,Withdrawal,Tokyo
+1/1/2023 21:56,TXN422,ACC8,55881.01,MerchantI,Withdrawal,Los Angeles
+1/1/2023 21:57,TXN906,ACC3,89399.58,MerchantA,Transfer,Tokyo
+1/1/2023 21:58,TXN1279,ACC5,17520.56,MerchantI,Transfer,New York
+1/1/2023 21:59,TXN287,ACC14,52012.21,MerchantD,Transfer,London
+1/1/2023 22:00,TXN525,ACC13,87068.2,MerchantB,Purchase,London
+1/1/2023 22:01,TXN500,ACC13,23213.25,MerchantD,Purchase,New York
+1/1/2023 22:02,TXN911,ACC13,9386.71,MerchantJ,Withdrawal,Los Angeles
+1/1/2023 22:03,TXN109,ACC7,29153.18,MerchantH,Transfer,San Francisco
+1/1/2023 22:04,TXN1135,ACC11,58998.89,MerchantE,Purchase,London
+1/1/2023 22:05,TXN1497,ACC13,15457.68,MerchantB,Withdrawal,San Francisco
+1/1/2023 22:06,TXN1535,ACC1,70411.29,MerchantB,Purchase,San Francisco
+1/1/2023 22:07,TXN781,ACC11,3056.06,MerchantE,Transfer,New York
+1/1/2023 22:08,TXN936,ACC3,61516.76,MerchantI,Withdrawal,London
+1/1/2023 22:09,TXN479,ACC5,5033.8,MerchantD,Withdrawal,New York
+1/1/2023 22:10,TXN1849,ACC4,92839.07,MerchantA,Transfer,Los Angeles
+1/1/2023 22:11,TXN1122,ACC9,33607.35,MerchantA,Purchase,New York
+1/1/2023 22:12,TXN953,ACC8,28112.16,MerchantA,Transfer,San Francisco
+1/1/2023 22:13,TXN1726,ACC3,75079.46,MerchantA,Purchase,San Francisco
+1/1/2023 22:14,TXN733,ACC5,56582.5,MerchantG,Withdrawal,San Francisco
+1/1/2023 22:15,TXN614,ACC5,74945.11,MerchantC,Withdrawal,New York
+1/1/2023 22:16,TXN1969,ACC3,41864.04,MerchantH,Purchase,Tokyo
+1/1/2023 22:17,TXN1139,ACC2,66790.11,MerchantC,Transfer,London
+1/1/2023 22:18,TXN273,ACC6,67853.21,MerchantF,Withdrawal,Tokyo
+1/1/2023 22:19,TXN1395,ACC4,73909.31,MerchantJ,Purchase,Los Angeles
+1/1/2023 22:20,TXN1700,ACC10,45567.36,MerchantJ,Purchase,New York
+1/1/2023 22:21,TXN1252,ACC7,43570.12,MerchantC,Withdrawal,London
+1/1/2023 22:22,TXN1379,ACC14,7903.15,MerchantA,Withdrawal,San Francisco
+1/1/2023 22:23,TXN816,ACC8,54104.88,MerchantH,Withdrawal,London
+1/1/2023 22:24,TXN1958,ACC12,16496.83,MerchantH,Transfer,Tokyo
+1/1/2023 22:25,TXN537,ACC15,50156.78,MerchantJ,Withdrawal,San Francisco
+1/1/2023 22:26,TXN1097,ACC10,64755.17,MerchantH,Withdrawal,Los Angeles
+1/1/2023 22:27,TXN1859,ACC8,81742.61,MerchantJ,Transfer,New York
+1/1/2023 22:28,TXN271,ACC3,21252.6,MerchantE,Withdrawal,San Francisco
+1/1/2023 22:29,TXN351,ACC2,89557.33,MerchantG,Transfer,New York
+1/1/2023 22:30,TXN1270,ACC9,72973.89,MerchantC,Withdrawal,Tokyo
+1/1/2023 22:31,TXN985,ACC4,83096.61,MerchantF,Purchase,Tokyo
+1/1/2023 22:32,TXN1505,ACC4,28801.65,MerchantJ,Withdrawal,London
+1/1/2023 22:33,TXN975,ACC14,63227.49,MerchantH,Purchase,San Francisco
+1/1/2023 22:34,TXN1925,ACC6,90242.28,MerchantG,Transfer,San Francisco
+1/1/2023 22:35,TXN661,ACC12,87303.21,MerchantH,Transfer,Los Angeles
+1/1/2023 22:36,TXN1576,ACC2,56062.38,MerchantD,Purchase,Los Angeles
+1/1/2023 22:37,TXN573,ACC5,9882.73,MerchantE,Transfer,Tokyo
+1/1/2023 22:38,TXN56,ACC11,98057.02,MerchantE,Purchase,Los Angeles
+1/1/2023 22:39,TXN752,ACC2,73889.28,MerchantC,Withdrawal,Los Angeles
+1/1/2023 22:40,TXN108,ACC12,87312.15,MerchantH,Transfer,Tokyo
+1/1/2023 22:41,TXN893,ACC6,42360.56,MerchantI,Transfer,San Francisco
+1/1/2023 22:42,TXN1720,ACC15,14439.48,MerchantD,Purchase,London
+1/1/2023 22:43,TXN897,ACC7,21833.8,MerchantE,Transfer,New York
+1/1/2023 22:44,TXN1857,ACC9,57767.4,MerchantF,Withdrawal,Tokyo
+1/1/2023 22:45,TXN1359,ACC1,7653.22,MerchantC,Purchase,New York
+1/1/2023 22:46,TXN529,ACC6,20913.85,MerchantA,Withdrawal,New York
+1/1/2023 22:47,TXN496,ACC14,91290.12,MerchantC,Withdrawal,Tokyo
+1/1/2023 22:48,TXN655,ACC6,76190.74,MerchantA,Transfer,Tokyo
+1/1/2023 22:49,TXN1016,ACC3,1685.46,MerchantE,Withdrawal,San Francisco
+1/1/2023 22:50,TXN1841,ACC7,53161.9,MerchantJ,Transfer,Tokyo
+1/1/2023 22:51,TXN986,ACC4,24984.72,MerchantB,Withdrawal,London
+1/1/2023 22:52,TXN785,ACC9,71478.18,MerchantG,Transfer,Los Angeles
+1/1/2023 22:53,TXN575,ACC11,4413.6,MerchantC,Purchase,Los Angeles
+1/1/2023 22:54,TXN1939,ACC4,55070.83,MerchantJ,Purchase,Tokyo
+1/1/2023 22:55,TXN145,ACC7,25541.08,MerchantA,Transfer,London
+1/1/2023 22:56,TXN1165,ACC6,67585.53,MerchantE,Transfer,London
+1/1/2023 22:57,TXN808,ACC11,2925.23,MerchantD,Purchase,San Francisco
+1/1/2023 22:58,TXN1308,ACC13,71014.38,MerchantC,Withdrawal,Los Angeles
+1/1/2023 22:59,TXN159,ACC9,31311.88,MerchantB,Transfer,London
+1/1/2023 23:00,TXN371,ACC7,63545.08,MerchantI,Transfer,San Francisco
+1/1/2023 23:01,TXN1254,ACC2,4314.81,MerchantE,Purchase,London
+1/1/2023 23:02,TXN1634,ACC11,89360.52,MerchantG,Purchase,San Francisco
+1/1/2023 23:03,TXN494,ACC12,37910.26,MerchantG,Withdrawal,San Francisco
+1/1/2023 23:04,TXN1170,ACC15,48407.22,MerchantI,Purchase,San Francisco
+1/1/2023 23:05,TXN1236,ACC6,32527.87,MerchantC,Withdrawal,Los Angeles
+1/1/2023 23:06,TXN811,ACC1,69672.54,MerchantD,Purchase,New York
+1/1/2023 23:07,TXN979,ACC5,85720.59,MerchantH,Withdrawal,Los Angeles
+1/1/2023 23:08,TXN1558,ACC1,40027.23,MerchantG,Transfer,Tokyo
+1/1/2023 23:09,TXN763,ACC10,2586.7,MerchantG,Withdrawal,New York
+1/1/2023 23:10,TXN1554,ACC1,30456.21,MerchantI,Transfer,San Francisco
+1/1/2023 23:11,TXN1107,ACC13,22275.38,MerchantD,Transfer,New York
+1/1/2023 23:12,TXN924,ACC2,17101.93,MerchantI,Withdrawal,San Francisco
+1/1/2023 23:13,TXN1017,ACC14,39316.46,MerchantG,Transfer,New York
+1/1/2023 23:14,TXN1049,ACC14,15970.89,MerchantB,Withdrawal,Los Angeles
+1/1/2023 23:15,TXN1483,ACC11,83016.8,MerchantF,Purchase,New York
+1/1/2023 23:16,TXN1472,ACC14,86842.27,MerchantI,Withdrawal,San Francisco
+1/1/2023 23:17,TXN54,ACC11,3948.79,MerchantA,Transfer,San Francisco
+1/1/2023 23:18,TXN483,ACC5,73118.42,MerchantF,Purchase,London
+1/1/2023 23:19,TXN491,ACC15,24794.86,MerchantJ,Purchase,London
+1/1/2023 23:20,TXN999,ACC6,54424.42,MerchantH,Transfer,London
+1/1/2023 23:21,TXN12,ACC13,83238.03,MerchantA,Transfer,Tokyo
+1/1/2023 23:22,TXN465,ACC8,25946.25,MerchantH,Purchase,San Francisco
+1/1/2023 23:23,TXN720,ACC4,45011.36,MerchantE,Withdrawal,San Francisco
+1/1/2023 23:24,TXN1095,ACC13,87064.68,MerchantE,Purchase,Los Angeles
+1/1/2023 23:25,TXN1935,ACC4,69383.62,MerchantD,Transfer,Tokyo
+1/1/2023 23:26,TXN618,ACC5,80545.18,MerchantG,Purchase,London
+1/1/2023 23:27,TXN281,ACC6,34662.41,MerchantB,Withdrawal,San Francisco
+1/1/2023 23:28,TXN965,ACC6,3476.92,MerchantC,Transfer,San Francisco
+1/1/2023 23:29,TXN653,ACC11,64154.03,MerchantD,Withdrawal,London
+1/1/2023 23:30,TXN1972,ACC15,29735.75,MerchantG,Transfer,Los Angeles
+1/1/2023 23:31,TXN1574,ACC6,87513.05,MerchantI,Purchase,London
+1/1/2023 23:32,TXN1074,ACC2,4539.01,MerchantG,Withdrawal,Los Angeles
+1/1/2023 23:33,TXN1701,ACC6,67130.37,MerchantB,Purchase,San Francisco
+1/1/2023 23:34,TXN649,ACC10,50466.86,MerchantD,Transfer,San Francisco
+1/1/2023 23:35,TXN478,ACC15,65945.7,MerchantI,Purchase,Tokyo
+1/1/2023 23:36,TXN415,ACC3,98517.6,MerchantB,Transfer,London
+1/1/2023 23:37,TXN1162,ACC2,61881.02,MerchantH,Purchase,Tokyo
+1/1/2023 23:38,TXN927,ACC11,27901.02,MerchantG,Purchase,London
+1/1/2023 23:39,TXN1351,ACC10,52364.82,MerchantA,Purchase,Los Angeles
+1/1/2023 23:40,TXN1372,ACC1,65212.79,MerchantE,Withdrawal,San Francisco
+1/1/2023 23:41,TXN1642,ACC8,51168.74,MerchantC,Withdrawal,Los Angeles
+1/1/2023 23:42,TXN1320,ACC2,67387.15,MerchantC,Transfer,San Francisco
+1/1/2023 23:43,TXN795,ACC1,94393.39,MerchantA,Withdrawal,London
+1/1/2023 23:44,TXN694,ACC14,37816.3,MerchantI,Purchase,San Francisco
+1/1/2023 23:45,TXN444,ACC10,23340.95,MerchantH,Purchase,San Francisco
+1/1/2023 23:46,TXN303,ACC5,65046.02,MerchantF,Purchase,London
+1/1/2023 23:47,TXN754,ACC11,11352.95,MerchantB,Withdrawal,New York
+1/1/2023 23:48,TXN1346,ACC12,33203.83,MerchantJ,Purchase,San Francisco
+1/1/2023 23:49,TXN1888,ACC9,25866.57,MerchantD,Transfer,London
+1/1/2023 23:50,TXN578,ACC1,67287.98,MerchantD,Withdrawal,Los Angeles
+1/1/2023 23:51,TXN1410,ACC15,80554.54,MerchantB,Purchase,London
+1/1/2023 23:52,TXN613,ACC12,16598.44,MerchantG,Purchase,San Francisco
+1/1/2023 23:53,TXN622,ACC14,83983.64,MerchantH,Withdrawal,San Francisco
+1/1/2023 23:54,TXN1152,ACC10,40664.99,MerchantH,Withdrawal,London
+1/1/2023 23:55,TXN1709,ACC4,72686.61,MerchantD,Purchase,New York
+1/1/2023 23:56,TXN941,ACC4,61452.43,MerchantF,Transfer,Tokyo
+1/1/2023 23:57,TXN123,ACC11,92429.46,MerchantE,Transfer,London
+1/1/2023 23:58,TXN912,ACC1,66508.95,MerchantG,Withdrawal,London
+1/1/2023 23:59,TXN1425,ACC9,46072.38,MerchantB,Purchase,Tokyo
+2/1/2023 0:00,TXN1819,ACC4,64493.84,MerchantA,Purchase,Los Angeles
+2/1/2023 0:01,TXN785,ACC12,25455.59,MerchantF,Withdrawal,Tokyo
+2/1/2023 0:02,TXN251,ACC4,56578.84,MerchantI,Purchase,New York
+2/1/2023 0:03,TXN1631,ACC6,66630.12,MerchantE,Transfer,New York
+2/1/2023 0:04,TXN72,ACC7,48009.94,MerchantG,Transfer,Los Angeles
+2/1/2023 0:05,TXN1949,ACC6,87363.12,MerchantC,Withdrawal,Los Angeles
+2/1/2023 0:06,TXN193,ACC15,32700.83,MerchantA,Purchase,San Francisco
+2/1/2023 0:07,TXN1949,ACC4,68222.35,MerchantC,Purchase,Los Angeles
+2/1/2023 0:08,TXN188,ACC3,66665.04,MerchantD,Purchase,London
+2/1/2023 0:09,TXN1097,ACC7,87287.21,MerchantF,Transfer,Los Angeles
+2/1/2023 0:10,TXN685,ACC11,18672.13,MerchantI,Withdrawal,London
+2/1/2023 0:11,TXN52,ACC15,61714.42,MerchantF,Transfer,Los Angeles
+2/1/2023 0:12,TXN1992,ACC4,55109.58,MerchantJ,Transfer,San Francisco
+2/1/2023 0:13,TXN1943,ACC11,27791.74,MerchantI,Transfer,Los Angeles
+2/1/2023 0:14,TXN780,ACC15,54439.05,MerchantJ,Withdrawal,Los Angeles
+2/1/2023 0:15,TXN1547,ACC6,52326.07,MerchantC,Withdrawal,London
+2/1/2023 0:16,TXN742,ACC1,61367.65,MerchantA,Transfer,Los Angeles
+2/1/2023 0:17,TXN52,ACC6,89364.59,MerchantG,Transfer,Tokyo
+2/1/2023 0:18,TXN1348,ACC9,70046.18,MerchantF,Withdrawal,London
+2/1/2023 0:19,TXN1963,ACC3,91134.81,MerchantE,Purchase,Tokyo
+2/1/2023 0:20,TXN601,ACC13,70213.72,MerchantI,Withdrawal,London
+2/1/2023 0:21,TXN1099,ACC1,67613.74,MerchantJ,Transfer,London
+2/1/2023 0:22,TXN1462,ACC9,25095.4,MerchantG,Withdrawal,London
+2/1/2023 0:23,TXN747,ACC15,34569.04,MerchantI,Withdrawal,Tokyo
+2/1/2023 0:24,TXN1491,ACC1,50598.11,MerchantC,Withdrawal,London
+2/1/2023 0:25,TXN273,ACC3,45179.43,MerchantD,Purchase,Tokyo
+2/1/2023 0:26,TXN79,ACC14,88328.53,MerchantC,Withdrawal,San Francisco
+2/1/2023 0:27,TXN507,ACC15,61646.65,MerchantF,Withdrawal,New York
+2/1/2023 0:28,TXN1514,ACC7,64880.05,MerchantB,Purchase,New York
+2/1/2023 0:29,TXN330,ACC10,26254.43,MerchantB,Withdrawal,Los Angeles
+2/1/2023 0:30,TXN820,ACC1,12691.13,MerchantE,Withdrawal,London
+2/1/2023 0:31,TXN913,ACC4,20891.01,MerchantJ,Purchase,San Francisco
+2/1/2023 0:32,TXN457,ACC13,57702.39,MerchantH,Transfer,London
+2/1/2023 0:33,TXN1970,ACC4,7937.24,MerchantI,Withdrawal,London
+2/1/2023 0:34,TXN508,ACC13,14355.51,MerchantD,Purchase,New York
+2/1/2023 0:35,TXN1575,ACC14,75515.81,MerchantG,Purchase,London
+2/1/2023 0:36,TXN542,ACC14,31507.89,MerchantB,Withdrawal,London
+2/1/2023 0:37,TXN1554,ACC10,27714.15,MerchantG,Purchase,New York
+2/1/2023 0:38,TXN383,ACC10,98775.08,MerchantJ,Purchase,London
